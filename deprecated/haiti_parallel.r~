@@ -1,0 +1,67 @@
+
+# parallel computing
+# library(doSNOW)
+# library(foreach)
+
+## Load required packages
+# library(maptools)
+# library(rgdal)
+
+source('clean_data.r')
+source('cluster_map.r')
+source('parallel_cluster.r')
+# source('plot_map.r')
+# sourceDirectory("R/", modifiedOnly=TRUE);
+#setwd("c:/dev/parallel/R")
+
+
+# EPSG:3857 (Spherical Mercator projection)
+ps="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+
+#noth east point
+n_e_lat=18.5549150
+n_e_lng=-72.2570801
+s_w_lat=18.5603014
+s_w_lng=-72.2515869
+
+
+print("experiment")
+# Experiment1  data
+#around 30 workers producing around 4000 annotations
+# 1 row = 1 geo_annotation = {lat, lng , the worker's ID
+experiment <- read.csv("exp1_volunteer_haiti.csv", , encoding = "UTF-8")
+experiment=SpatialPointsDataFrame(coords=experiment[,1:2], data=as.data.frame(experiment[,3]), proj4string=CRS(ps))
+names(experiment) <- c("workerID")
+
+print(nrow(experiment))
+
+#cutting outside
+experiment=experiment[experiment@coords[,2]>n_e_lat,]
+experiment=experiment[experiment@coords[,2]<s_w_lat,]
+experiment=experiment[experiment@coords[,1]>n_e_lng,]
+experiment=experiment[experiment@coords[,1]<s_w_lng,]
+print(nrow(experiment))
+
+#gold standard data 
+# 1 row = 1 geo_annotation = {lat, lng , the worker's ID(expertID)
+reference <- read.csv("experiment1_reference.csv", encoding = "UTF-8")
+reference=SpatialPointsDataFrame(coords=reference[,1:2], data=as.data.frame(reference[,3]), proj4string=CRS(ps))
+names(reference) <- c("workerID")
+
+print("reference")
+print(nrow(reference))
+
+
+reference=reference[reference@coords[,2]>n_e_lat,]
+reference=reference[reference@coords[,2]<s_w_lat,]
+reference=reference[reference@coords[,1]>n_e_lng,]
+reference=reference[reference@coords[,1]<s_w_lng,]
+
+print(nrow(reference))
+
+
+experiment=preprocessing(experiment, 0, 0.005)
+
+
+#output=compute_all_accuracy(experiment,reference)
+

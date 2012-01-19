@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>index (35).kml</name>
+	<open>1</open>
+	<Folder>
+		<name>experiment 1</name>
+		<open>1</open>
+		<Folder>
+			<name>reference</name>
+		</Folder>
+		<Folder>
+			<name>layout</name>
+			<open>1</open>
+			<GroundOverlay>
+				<name>satellite imagery</name>
+				<Icon>
+					<href>http://mechanicalmapping.heroku.com/images/dammage.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLngBox>
+            <north>18.5614014</north>
+            <south>18.5504150</south>
+            <east>-72.2515869</east>
+            <west>-72.2570801</west>
+          </LatLngBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

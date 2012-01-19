@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>index (28).kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Cluster (Wisdom of crowd)</name>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 0 - 4</description>
+			<Point>
+				<coordinates>-72.25184414181329,18.5579143207561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 1 - 9</description>
+			<Point>
+				<coordinates>-72.2523183563672,18.5576008005403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 2 - 6</description>
+			<Point>
+				<coordinates>-72.252774944976,18.5576848200916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 3 - 4</description>
+			<Point>
+				<coordinates>-72.25482327136621,18.5583982036216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 4 - 8</description>
+			<Point>
+				<coordinates>-72.2563490310631,18.5582516291017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 5 - 7</description>
+			<Point>
+				<coordinates>-72.25678218919261,18.5582765973511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 6 - 7</description>
+			<Point>
+				<coordinates>-72.25665076095081,18.5585763220115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 7 - 6</description>
+			<Point>
+				<coordinates>-72.2565468971964,18.5581546822313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 8 - 7</description>
+			<Point>
+				<coordinates>-72.2568874658964,18.5579024970111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 9 - 5</description>
+			<Point>
+				<coordinates>-72.25580871495821,18.5581675775384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 10 - 7</description>
+			<Point>
+				<coordinates>-72.256120018842,18.5579314206859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 11 - 8</description>
+			<Point>
+				<coordinates>-72.2562238613091,18.5580174147333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 12 - 5</description>
+			<Point>
+				<coordinates>-72.25611895713431,18.5581372765899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 13 - 6</description>
+			<Point>
+				<coordinates>-72.25579951881301,18.5583146929691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 14 - 5</description>
+			<Point>
+				<coordinates>-72.25557513925651,18.558391338243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 15 - 6</description>
+			<Point>
+				<coordinates>-72.2553879913156,18.5585638807922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 16 - 7</description>
+			<Point>
+				<coordinates>-72.2553544158063,18.5583438209006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 17 - 7</description>
+			<Point>
+				<coordinates>-72.25375933963279,18.5585543909553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 18 - 8</description>
+			<Point>
+				<coordinates>-72.2536486426315,18.5586276710392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 19 - 6</description>
+			<Point>
+				<coordinates>-72.2543480605632,18.5581599493304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 20 - 6</description>
+			<Point>
+				<coordinates>-72.25502416882139,18.5577471173093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 21 - 8</description>
+			<Point>
+				<coordinates>-72.2538647094689,18.558486408198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 22 - 8</description>
+			<Point>
+				<coordinates>-72.25194201264,18.5587567851715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 23 - 4</description>
+			<Point>
+				<coordinates>-72.2516526320896,18.5603830498358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 24 - 9</description>
+			<Point>
+				<coordinates>-72.2558064350806,18.5588478854479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 25 - 4</description>
+			<Point>
+				<coordinates>-72.2560965159855,18.5587035856418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 26 - 7</description>
+			<Point>
+				<coordinates>-72.2561902591906,18.5584379020451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 27 - 10</description>
+			<Point>
+				<coordinates>-72.2560223163307,18.5591402872194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 28 - 9</description>
+			<Point>
+				<coordinates>-72.2561709472857,18.5593606255328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 29 - 8</description>
+			<Point>
+				<coordinates>-72.2550933102093,18.559774155922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 30 - 10</description>
+			<Point>
+				<coordinates>-72.2549179777281,18.5595884992467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 31 - 10</description>
+			<Point>
+				<coordinates>-72.2545125984111,18.5596292982714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 32 - 10</description>
+			<Point>
+				<coordinates>-72.25525922786591,18.559971986583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 33 - 5</description>
+			<Point>
+				<coordinates>-72.2543424406968,18.5586214554767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 34 - 6</description>
+			<Point>
+				<coordinates>-72.2555108939644,18.556110854229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 35 - 4</description>
+			<Point>
+				<coordinates>-72.2521725783072,18.5561206620451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 36 - 5</description>
+			<Point>
+				<coordinates>-72.2560192683659,18.5575647359314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 37 - 4</description>
+			<Point>
+				<coordinates>-72.2557869890652,18.5574993449674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 38 - 4</description>
+			<Point>
+				<coordinates>-72.2555992344342,18.5573015191477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 39 - 8</description>
+			<Point>
+				<coordinates>-72.2556198427401,18.5568251484309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 40 - 5</description>
+			<Point>
+				<coordinates>-72.2564476394973,18.5561282903478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 41 - 5</description>
+			<Point>
+				<coordinates>-72.2561969647131,18.5563476038861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 42 - 7</description>
+			<Point>
+				<coordinates>-72.2560439949802,18.5561785099938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 43 - 7</description>
+			<Point>
+				<coordinates>-72.2570043096266,18.5563916254833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 44 - 8</description>
+			<Point>
+				<coordinates>-72.2568634936533,18.5562694138754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 45 - 6</description>
+			<Point>
+				<coordinates>-72.2567756513081,18.556499715594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 46 - 6</description>
+			<Point>
+				<coordinates>-72.256987928993,18.5567743336423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 47 - 6</description>
+			<Point>
+				<coordinates>-72.25689673388651,18.55659561401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 48 - 8</description>
+			<Point>
+				<coordinates>-72.2564219722472,18.5564440169965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 49 - 4</description>
+			<Point>
+				<coordinates>-72.253862504097,18.5561351558178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 50 - 7</description>
+			<Point>
+				<coordinates>-72.2543990464828,18.55645487671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 51 - 7</description>
+			<Point>
+				<coordinates>-72.254703309568,18.5564844363218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 52 - 7</description>
+			<Point>
+				<coordinates>-72.25489198620831,18.5563622247801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 53 - 9</description>
+			<Point>
+				<coordinates>-72.25526436063861,18.5566321389453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 54 - 4</description>
+			<Point>
+				<coordinates>-72.25533771905521,18.5572097258554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 55 - 7</description>
+			<Point>
+				<coordinates>-72.2555495465121,18.55746880022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 56 - 4</description>
+			<Point>
+				<coordinates>-72.25550267490959,18.5575908838322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 57 - 6</description>
+			<Point>
+				<coordinates>-72.2551912321257,18.5578813377704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 58 - 5</description>
+			<Point>
+				<coordinates>-72.2550069579802,18.5578935974178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 59 - 7</description>
+			<Point>
+				<coordinates>-72.2564933488093,18.5572745977829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 60 - 4</description>
+			<Point>
+				<coordinates>-72.2562880257092,18.5572829570743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 61 - 5</description>
+			<Point>
+				<coordinates>-72.2561945060215,18.5571295020367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 62 - 6</description>
+			<Point>
+				<coordinates>-72.2560859404185,18.5569864721556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 63 - 5</description>
+			<Point>
+				<coordinates>-72.25595243665791,18.5570998365876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 64 - 6</description>
+			<Point>
+				<coordinates>-72.2557254706856,18.556865509647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 65 - 7</description>
+			<Point>
+				<coordinates>-72.256291931676,18.5568703000186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 66 - 6</description>
+			<Point>
+				<coordinates>-72.2564240903408,18.5569234481566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 67 - 7</description>
+			<Point>
+				<coordinates>-72.2566430495999,18.5569877435314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 68 - 4</description>
+			<Point>
+				<coordinates>-72.2564500311337,18.5577526023712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 69 - 5</description>
+			<Point>
+				<coordinates>-72.2557400951109,18.5577461183762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 70 - 8</description>
+			<Point>
+				<coordinates>-72.2566844562016,18.559038038926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 71 - 6</description>
+			<Point>
+				<coordinates>-72.25534239376241,18.5580217333535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 72 - 8</description>
+			<Point>
+				<coordinates>-72.2550410071335,18.5581381948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 73 - 6</description>
+			<Point>
+				<coordinates>-72.2548733903574,18.5579512631423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 74 - 7</description>
+			<Point>
+				<coordinates>-72.2556809747539,18.5590309934621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 75 - 9</description>
+			<Point>
+				<coordinates>-72.2556845286808,18.5594362714096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 76 - 7</description>
+			<Point>
+				<coordinates>-72.25546170416691,18.5592431518677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 77 - 8</description>
+			<Point>
+				<coordinates>-72.25532442721941,18.5590987817647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 78 - 9</description>
+			<Point>
+				<coordinates>-72.25511522981741,18.5592148005271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 79 - 9</description>
+			<Point>
+				<coordinates>-72.2547347584687,18.5591561907897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 80 - 9</description>
+			<Point>
+				<coordinates>-72.2542877683363,18.559435762867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 81 - 8</description>
+			<Point>
+				<coordinates>-72.2545713225327,18.5588531262878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 82 - 10</description>
+			<Point>
+				<coordinates>-72.2555501256255,18.5596880118662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 83 - 8</description>
+			<Point>
+				<coordinates>-72.2540654281101,18.5598833512808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 84 - 5</description>
+			<Point>
+				<coordinates>-72.2538218686305,18.5600542779055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 85 - 8</description>
+			<Point>
+				<coordinates>-72.2538219431363,18.5594897956135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description>cluster 86 - 10</description>
+			<Point>
+				<coordinates>-72.2535428579336,18.5592597951297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description>cluster 87 - 9</description>
+			<Point>
+				<coordinates>-72.2530849317036,18.5592778600045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 88 - 4</description>
+			<Point>
+				<coordinates>-72.2530642786942,18.5600080005977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 89 - 7</description>
+			<Point>
+				<coordinates>-72.2527167985163,18.5596183617063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 90 - 4</description>
+			<Point>
+				<coordinates>-72.25185647997481,18.559297057543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 91 - 6</description>
+			<Point>
+				<coordinates>-72.2523724220374,18.5591843060273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 92 - 4</description>
+			<Point>
+				<coordinates>-72.25512716564749,18.5572913481487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 93 - 4</description>
+			<Point>
+				<coordinates>-72.25481911394211,18.5571817555902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 94 - 8</description>
+			<Point>
+				<coordinates>-72.25509547087771,18.5575731411195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 95 - 5</description>
+			<Point>
+				<coordinates>-72.2544320711813,18.5577147578741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 96 - 5</description>
+			<Point>
+				<coordinates>-72.25467559340819,18.5577014084687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 97 - 5</description>
+			<Point>
+				<coordinates>-72.2543868089042,18.5575128215272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 98 - 5</description>
+			<Point>
+				<coordinates>-72.2549461612425,18.5569502378991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 99 - 4</description>
+			<Point>
+				<coordinates>-72.2545165607653,18.557056143615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 100 - 5</description>
+			<Point>
+				<coordinates>-72.25442737731559,18.5573210559417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 101 - 8</description>
+			<Point>
+				<coordinates>-72.2539494225703,18.5576542264371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 102 - 7</description>
+			<Point>
+				<coordinates>-72.25390711258569,18.5575053522097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 103 - 7</description>
+			<Point>
+				<coordinates>-72.2538363693229,18.5575476253704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 104 - 7</description>
+			<Point>
+				<coordinates>-72.25373260136171,18.5574699126726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 105 - 6</description>
+			<Point>
+				<coordinates>-72.25377703742259,18.5572679911735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 106 - 6</description>
+			<Point>
+				<coordinates>-72.2537346010443,18.5570554897632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 107 - 8</description>
+			<Point>
+				<coordinates>-72.2538320759258,18.5569175352362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 108 - 6</description>
+			<Point>
+				<coordinates>-72.2534797911879,18.556796128711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 109 - 8</description>
+			<Point>
+				<coordinates>-72.2536870876274,18.5567341742151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 110 - 7</description>
+			<Point>
+				<coordinates>-72.25330872851831,18.5567035904809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 111 - 7</description>
+			<Point>
+				<coordinates>-72.2535267418198,18.5565615137761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 112 - 7</description>
+			<Point>
+				<coordinates>-72.25338994916,18.5564332632286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 113 - 6</description>
+			<Point>
+				<coordinates>-72.2538362376073,18.5565142456622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 114 - 5</description>
+			<Point>
+				<coordinates>-72.25274965557669,18.5570426246411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 115 - 4</description>
+			<Point>
+				<coordinates>-72.252490285965,18.5572282879383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 116 - 4</description>
+			<Point>
+				<coordinates>-72.2526238599739,18.5574662892572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 117 - 7</description>
+			<Point>
+				<coordinates>-72.2523808518372,18.5578189043834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 118 - 4</description>
+			<Point>
+				<coordinates>-72.2520919779263,18.5559439396178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 119 - 4</description>
+			<Point>
+				<coordinates>-72.2565795818291,18.5513076440307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 120 - 4</description>
+			<Point>
+				<coordinates>-72.25636446866611,18.5514947968859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 121 - 4</description>
+			<Point>
+				<coordinates>-72.2563290635071,18.5523273194684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 122 - 4</description>
+			<Point>
+				<coordinates>-72.25696152839279,18.5519611524309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 123 - 4</description>
+			<Point>
+				<coordinates>-72.2566573658906,18.5521381332636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 124 - 4</description>
+			<Point>
+				<coordinates>-72.25664770993809,18.5522917199292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 125 - 4</description>
+			<Point>
+				<coordinates>-72.256511990162,18.5525149797707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 126 - 4</description>
+			<Point>
+				<coordinates>-72.2567410508118,18.5525490535704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 127 - 4</description>
+			<Point>
+				<coordinates>-72.25674802455519,18.5529884524077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 128 - 4</description>
+			<Point>
+				<coordinates>-72.2568542400322,18.5528918254453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 129 - 4</description>
+			<Point>
+				<coordinates>-72.25597367081259,18.5531094903135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 130 - 4</description>
+			<Point>
+				<coordinates>-72.2566412726365,18.5533871651887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 131 - 4</description>
+			<Point>
+				<coordinates>-72.25596991572,18.5535448192191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 132 - 4</description>
+			<Point>
+				<coordinates>-72.2556453684292,18.5536246633028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 133 - 4</description>
+			<Point>
+				<coordinates>-72.2555018702469,18.5540040493272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 134 - 4</description>
+			<Point>
+				<coordinates>-72.2557148376427,18.5539872668538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 135 - 4</description>
+			<Point>
+				<coordinates>-72.2558151522599,18.5539862497339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 136 - 4</description>
+			<Point>
+				<coordinates>-72.2559953967057,18.5539257311005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 137 - 4</description>
+			<Point>
+				<coordinates>-72.2563577631436,18.554035071472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 138 - 4</description>
+			<Point>
+				<coordinates>-72.2565583923779,18.5549293713535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 139 - 4</description>
+			<Point>
+				<coordinates>-72.2569550910912,18.5551638159866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 140 - 5</description>
+			<Point>
+				<coordinates>-72.2562863716803,18.5554618721165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 141 - 5</description>
+			<Point>
+				<coordinates>-72.2567213365756,18.5554843333131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 142 - 4</description>
+			<Point>
+				<coordinates>-72.2566275933705,18.5556588948598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 143 - 6</description>
+			<Point>
+				<coordinates>-72.25703084433719,18.5556573328685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 144 - 5</description>
+			<Point>
+				<coordinates>-72.256903950306,18.5558504927952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 145 - 4</description>
+			<Point>
+				<coordinates>-72.25672495755769,18.5562190671174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 146 - 5</description>
+			<Point>
+				<coordinates>-72.256672386261,18.5559996686541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 147 - 4</description>
+			<Point>
+				<coordinates>-72.2567879894696,18.5547277283711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 148 - 6</description>
+			<Point>
+				<coordinates>-72.2555632928334,18.5543668700246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 149 - 4</description>
+			<Point>
+				<coordinates>-72.2553666869126,18.5544040311322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 150 - 5</description>
+			<Point>
+				<coordinates>-72.25526042673209,18.5550073500804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 151 - 5</description>
+			<Point>
+				<coordinates>-72.25518197211839,18.554587366409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 152 - 6</description>
+			<Point>
+				<coordinates>-72.25501937916241,18.5548058646021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 153 - 7</description>
+			<Point>
+				<coordinates>-72.2549680100701,18.5549287356594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 154 - 4</description>
+			<Point>
+				<coordinates>-72.25524786505321,18.5552835809582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 155 - 4</description>
+			<Point>
+				<coordinates>-72.2554181853257,18.5557100046153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 156 - 4</description>
+			<Point>
+				<coordinates>-72.25512689742661,18.5555495555296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 157 - 5</description>
+			<Point>
+				<coordinates>-72.25525416824441,18.5556248216799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 158 - 6</description>
+			<Point>
+				<coordinates>-72.2553766877204,18.555479883455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 159 - 8</description>
+			<Point>
+				<coordinates>-72.25485995802499,18.5550614548664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 160 - 8</description>
+			<Point>
+				<coordinates>-72.2547192910634,18.5552352116296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 161 - 6</description>
+			<Point>
+				<coordinates>-72.25453409091711,18.5554164956461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 162 - 7</description>
+			<Point>
+				<coordinates>-72.2563942747138,18.555867497578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 163 - 6</description>
+			<Point>
+				<coordinates>-72.2561849905657,18.5558024525696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 164 - 6</description>
+			<Point>
+				<coordinates>-72.2561236829311,18.5559528393134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 165 - 4</description>
+			<Point>
+				<coordinates>-72.25617430004699,18.5567899171181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 166 - 4</description>
+			<Point>
+				<coordinates>-72.2560578921757,18.5567095659635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 167 - 4</description>
+			<Point>
+				<coordinates>-72.25538438949209,18.5558750305376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 168 - 5</description>
+			<Point>
+				<coordinates>-72.2553337404452,18.5561441826419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 169 - 8</description>
+			<Point>
+				<coordinates>-72.2550757268391,18.5559863191157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 170 - 7</description>
+			<Point>
+				<coordinates>-72.2547713706217,18.5558182313777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 171 - 5</description>
+			<Point>
+				<coordinates>-72.2546251902304,18.5561530823284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 172 - 4</description>
+			<Point>
+				<coordinates>-72.25477981958009,18.5562978928417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 173 - 7</description>
+			<Point>
+				<coordinates>-72.25445093046341,18.5569413382536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 174 - 6</description>
+			<Point>
+				<coordinates>-72.2542598350453,18.5565707312853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 175 - 4</description>
+			<Point>
+				<coordinates>-72.25385150704,18.5574428959799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 176 - 4</description>
+			<Point>
+				<coordinates>-72.2548162976227,18.5578766881878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 177 - 4</description>
+			<Point>
+				<coordinates>-72.25469962153061,18.5579311028443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 178 - 5</description>
+			<Point>
+				<coordinates>-72.2551330218039,18.5577662484248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 179 - 4</description>
+			<Point>
+				<coordinates>-72.2562791744195,18.5577543822917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 180 - 4</description>
+			<Point>
+				<coordinates>-72.2563631275616,18.5576308049336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 181 - 7</description>
+			<Point>
+				<coordinates>-72.2568904833816,18.557158743686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 182 - 5</description>
+			<Point>
+				<coordinates>-72.25671239587879,18.5576350852203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 183 - 5</description>
+			<Point>
+				<coordinates>-72.257007215353,18.5576914493879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 184 - 4</description>
+			<Point>
+				<coordinates>-72.2547704318486,18.5580907868691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 185 - 4</description>
+			<Point>
+				<coordinates>-72.25288108381849,18.5570474982527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 186 - 6</description>
+			<Point>
+				<coordinates>-72.25401086857281,18.5588197883144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 187 - 6</description>
+			<Point>
+				<coordinates>-72.25230383412119,18.5590444562771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 188 - 5</description>
+			<Point>
+				<coordinates>-72.25244120154009,18.5593654143214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 189 - 7</description>
+			<Point>
+				<coordinates>-72.25315869245151,18.5593825246994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description>cluster 190 - 8</description>
+			<Point>
+				<coordinates>-72.2536869386158,18.5593447194115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 191 - 7</description>
+			<Point>
+				<coordinates>-72.2544667722604,18.5603204675259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 192 - 4</description>
+			<Point>
+				<coordinates>-72.2555659750424,18.558897087204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description>cluster 193 - 7</description>
+			<Point>
+				<coordinates>-72.2547787466965,18.5599633760407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 194 - 5</description>
+			<Point>
+				<coordinates>-72.2534067967854,18.560925789123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 195 - 5</description>
+			<Point>
+				<coordinates>-72.2538455614767,18.5597239373324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 196 - 6</description>
+			<Point>
+				<coordinates>-72.2528117295568,18.5596977534323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 197 - 4</description>
+			<Point>
+				<coordinates>-72.2552060225925,18.5595559062522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 198 - 5</description>
+			<Point>
+				<coordinates>-72.2527335623226,18.5590516001191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 199 - 5</description>
+			<Point>
+				<coordinates>-72.25442290696721,18.5592611628076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 200 - 4</description>
+			<Point>
+				<coordinates>-72.2554959693871,18.5553242654343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 201 - 4</description>
+			<Point>
+				<coordinates>-72.2549324372731,18.557126832145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 202 - 5</description>
+			<Point>
+				<coordinates>-72.25481998566011,18.5568110220022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 203 - 4</description>
+			<Point>
+				<coordinates>-72.2558417061291,18.5570635175965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 204 - 5</description>
+			<Point>
+				<coordinates>-72.2540478447399,18.5559420325418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 205 - 5</description>
+			<Point>
+				<coordinates>-72.25552216562841,18.5570337250007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description>cluster 206 - 5</description>
+			<Point>
+				<coordinates>-72.2554765680752,18.5573763607341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 207 - 4</description>
+			<Point>
+				<coordinates>-72.25529668125721,18.5572801600493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 208 - 4</description>
+			<Point>
+				<coordinates>-72.25614801439861,18.5569071381965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 209 - 4</description>
+			<Point>
+				<coordinates>-72.25633362326241,18.5574754431489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 210 - 4</description>
+			<Point>
+				<coordinates>-72.256185028883,18.5574680691807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description>cluster 211 - 6</description>
+			<Point>
+				<coordinates>-72.255315475879,18.5567548997097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 212 - 4</description>
+			<Point>
+				<coordinates>-72.2555300334416,18.5562345779869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description>cluster 213 - 4</description>
+			<Point>
+				<coordinates>-72.25462237391091,18.555644655323,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<GroundOverlay>
+		<name>Sans titre - Superposition d&apos;image</name>
+		<Icon>
+			<href>C:/dev/mechanical/public/images/dammage.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>18.56171173556593</north>
+			<south>18.55013274109282</south>
+			<east>-72.25280913941927</east>
+			<west>-72.2582007644659</west>
+			<rotation>-2.023681957906993</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>

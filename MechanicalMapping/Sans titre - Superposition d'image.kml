@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Sans titre - Superposition d&apos;image</name>
+	<Icon>
+		<href>http://mechanicalmapping.heroku.com/images/dammage.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>18.45190623297037</north>
+		<south>18.29122633719988</south>
+		<east>-72.40955969216547</east>
+		<west>-72.49421426885262</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

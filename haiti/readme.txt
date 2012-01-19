@@ -1,0 +1,2 @@
+files finishing with 0_01 or 0_007
+0_01 = represent a distance of 0.01 radians, we analyse the points to find potential cluster of points within such distance. These points are then merged to a new point at the center of the cluster.

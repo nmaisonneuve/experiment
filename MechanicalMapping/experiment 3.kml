@@ -1,0 +1,2754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>experiment 2</name>
+	<open>1</open>
+	<Folder>
+		<name>Cluster (Wisdom of crowd)</name>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 0 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2516241016838,18.5556472077094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 1 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2518524494737,18.5546784350732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 2 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2520527186843,18.5558608006299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 3 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2519549009759,18.5557393889542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 4 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.2518069025398,18.5550685713341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 5 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25522242727359,18.5556336764279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 6 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2545406678597,18.5554143375325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 7 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2545874157868,18.5556981236922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 8 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25477856668471,18.555811089445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 9 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2551219309798,18.5555328367368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 10 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2552162740602,18.5552301881166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 11 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2552497425995,18.5549834695124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 12 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2551910904311,18.5545849623335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 13 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2550117715865,18.5548016628825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 14 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2549732393944,18.5549413662554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 15 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2548583777033,18.555062106549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 16 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.254720333346,18.5552370499421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 17 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2570205922927,18.554170129444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 18 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2554733765071,18.555303031158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 19 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2553708192507,18.5544014215951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 20 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2555503360106,18.5543620115764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 21 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2559045931872,18.5541399989289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 22 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2561018387116,18.554153886512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 23 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2560165509624,18.5544956300099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 24 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2564417222753,18.5550045807563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 25 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2565697810228,18.5549300439411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 26 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25664199987131,18.5548106783257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 27 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2565988805208,18.5546891232401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 28 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2566878494504,18.5546155741012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 29 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2567333678022,18.5548670119155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 30 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2567982006258,18.5547585394454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 31 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25704867213641,18.5552339090326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 32 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2569573034509,18.5551553935377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 33 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2567137876763,18.5554920004066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 34 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2563913235897,18.5554821883629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 35 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2562798965204,18.555470662713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 36 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.2553597398433,18.5554648699432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 votes</name>
+			<description>cluster 37 - 17 votes on 19 workers (89.4736842105263 %)</description>
+			<Point>
+				<coordinates>-72.25555451212919,18.5596774204697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 38 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2552659681469,18.5599839927796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 39 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25507513079261,18.5560058986104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 40 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2547847829503,18.55629701343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 41 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2538709679566,18.5561308374805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 42 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2549592664021,18.5574606722836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 43 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25513743119291,18.5572932866902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 44 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25510278480169,18.556864199434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 45 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2549336901685,18.5569409588072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 46 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25489599754771,18.5567115951501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 47 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2549048433069,18.5563641838298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 48 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2542744941661,18.5565617353344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 49 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25439318214541,18.5564526004567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 50 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25469209071299,18.556474619277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 51 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25368855065049,18.5567276924687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 52 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25342679859951,18.5564358084476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 53 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2535350966389,18.5565550428791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 54 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2538415562783,18.5564995369923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 55 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.253851775261,18.5569041596551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 56 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2537406117998,18.5570428015991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 57 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2537468297845,18.5574740980168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 58 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25398161886641,18.5576394673198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 59 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2551012630998,18.5575614822313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 60 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2547884026489,18.5574975650477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 61 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2548246014095,18.5571776549242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 62 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25451864027519,18.5570665061691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 63 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25436300429919,18.5570822342274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 64 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2518705525877,18.5607077197588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 65 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25183117181351,18.5610397084885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 66 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25331971308469,18.560947669759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 67 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2533537612884,18.560306817041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 68 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2516821715089,18.5604094608979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 votes</name>
+			<description>cluster 69 - 17 votes on 19 workers (89.4736842105263 %)</description>
+			<Point>
+				<coordinates>-72.25272034130811,18.5596282213783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 70 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2528067989678,18.559720446724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 71 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2520031896204,18.5600979316748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 72 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2522243810881,18.5605002739265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 73 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2535094781699,18.5603410328207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 74 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2534848052199,18.5608907939951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 75 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2538134962456,18.560048719345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 76 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25385634694091,18.5597190837139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 77 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25403360434299,18.5598554593894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 78 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25411479680341,18.559911413009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 79 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.2544924873292,18.5596386984153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 80 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.255200877017,18.5595882483727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 81 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2549121130874,18.5596209243383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 82 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25509148120651,18.5597782699078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 83 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25478187668909,18.5599776457272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 84 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25446956697689,18.5603223414969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 85 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2568715492647,18.5562635179674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 86 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2567255229251,18.5562306662003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 87 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25665800132261,18.5559937235351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 88 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2553881517722,18.5559283199821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 89 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25533138774971,18.556160753238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 90 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25550056693081,18.5560951074044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 91 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2555544487311,18.5562209489709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 92 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2561591002455,18.5559739384453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 93 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2562854424904,18.5560607254924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 94 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2560413308691,18.5561672626287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 95 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2560286650818,18.5563702618761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 96 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2561669841123,18.5563460995898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 97 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25641493468309,18.5564176934935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 98 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25658209378069,18.556406684305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 99 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25672857162481,18.5567683401992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 100 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25654212989321,18.5565898747569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 101 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25677810548039,18.5565057045431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 102 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25688566236531,18.5565856065823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 103 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25700111466161,18.5563889069832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 104 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25702008933931,18.5566506589417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 105 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.256989789551,18.5568061000997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 106 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2561821692758,18.5567697316924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 107 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25561036777189,18.5566690947507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 108 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25562013867609,18.5568295297895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 109 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2552830844832,18.556626439098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 110 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.256063701437,18.5567751965096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 111 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25615850419911,18.5569018268918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 112 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2564202675979,18.5569408299641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 113 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2562946088083,18.5568656683448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 114 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25633432215599,18.5570560825011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 115 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.256374131806,18.5571532806989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 116 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2562515468733,18.5572818363151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 117 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2559514368191,18.557101534212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 118 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2558808083098,18.5570499730443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 119 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25584254858021,18.5571459393108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 120 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.255524409787,18.5570136163155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 121 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2555941472214,18.5571062654375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 122 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2555268524368,18.5572343711401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 123 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2554962965956,18.5573699434517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 124 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25557130434019,18.5574843175424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 125 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25577869432431,18.5575379040405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 126 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2560170836323,18.5575581057171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 127 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2561809422194,18.5575007783424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 128 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.256294385583,18.5575861109141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 129 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2563064237247,18.5577503419849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 130 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2564904935235,18.5572736646664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 131 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2566427409363,18.5569947150901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 132 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2567549466801,18.5570251585412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 133 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2568845344114,18.5571591252877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 134 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2568278133583,18.5573697013524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 135 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2567340860527,18.5575911383666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 136 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25698427555091,18.557653947184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 137 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2567313421207,18.5525402305598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 138 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2565171485722,18.5524939148899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 139 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25661146395331,18.552298591282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 140 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2563313106604,18.5523302935917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 141 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25660422542769,18.5527199809063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 142 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2568618124307,18.5528738846424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 143 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2567579301068,18.5529879975961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 144 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25662006456341,18.5533831504466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 145 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.255973618074,18.5528003245975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 146 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25599007307081,18.55308720582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 147 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2557575861522,18.5533355306713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 148 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2559623281069,18.5533599416355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 149 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2560784379549,18.553391302936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 150 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2559896076591,18.5535541339917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 151 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25563740008781,18.5536123006613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 152 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2555109329621,18.5539911437887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 153 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25570143857681,18.5539829566139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 154 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2558180105856,18.5539862358997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 155 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2560046950848,18.5539331705381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 156 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2570409784623,18.5537779152781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 157 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2569040989128,18.5539211011084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 158 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25648535886479,18.5538578228221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 159 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2563560763903,18.5540216043568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 160 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25282555490431,18.5560830119307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 161 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.252086690936,18.5559538099093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 162 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2521422365118,18.5560520996319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 163 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25218689060139,18.5561245386602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 164 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25185557392589,18.556203871508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 165 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2518541706706,18.5560641001563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 166 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25179471332611,18.5559847488604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 167 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25168918756,18.555982677167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 168 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2533251051555,18.5566984766128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 169 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25268415299411,18.556830165553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 170 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2529103973245,18.5570447886714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 171 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25286319044589,18.5573130767739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 172 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2527567961549,18.5570484187097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 173 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25247853728941,18.5572160928834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 174 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25182383445259,18.5574243220354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 175 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25166349795811,18.5575954166748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 176 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2521199503278,18.5576845442894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 177 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.252768420772,18.5576604062782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 178 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25230937985771,18.5576115492527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 179 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2523743461462,18.5578310032585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 180 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25272021580069,18.5581083023062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 181 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2518168498984,18.5588656555969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 182 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25193949217341,18.5587523640229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 183 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2523092866315,18.5590386023304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 184 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2518442828388,18.5592928846607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 185 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25192738833241,18.5595191350608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 186 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25262482686141,18.5594515688375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 187 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2523720069306,18.5592040632195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 188 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25333813816179,18.5593646453058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 189 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2531619417187,18.5594103844915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 190 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2530885641435,18.5592788895749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 191 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2543231871234,18.5586078839181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 192 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2541863616769,18.5586683437442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 193 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2540112845322,18.5588045821596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 194 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25364465278391,18.5586334841552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 195 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2537559957099,18.5585597058909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 196 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2538673626741,18.5584930692687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 197 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2540406300317,18.5584937556735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 198 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2543572234472,18.5581627680534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 199 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2547240614314,18.5582632910609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 200 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2547933498345,18.5580725626525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 201 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2550171538132,18.5581313247755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 202 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2548132801376,18.5584150787812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 203 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2550752410539,18.5587509518492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 204 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2544787863217,18.5589922070122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 205 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2544822995939,18.5588695125091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 206 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.25472318430531,18.5591302968609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 207 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25497199689239,18.5590257368416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 208 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2551264154971,18.559245908407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 209 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2545345396632,18.559551353435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 210 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2544263810055,18.5592556037313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 211 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2542887976055,18.5594245657022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 212 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2538125191501,18.5594717687704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 213 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25368790818961,18.5593419841823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 214 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25352695974929,18.5592481981049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 215 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2565534869738,18.5578837203991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 216 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.25687919059131,18.5579005281267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 217 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25536580482201,18.5578046359933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 218 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25572450078261,18.55776714108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 219 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2556939859996,18.5581701435463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 220 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2553290232497,18.5580089748551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 221 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2561190649066,18.5579395702341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 222 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.256216757235,18.5580124660672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 223 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2561178962298,18.558151568328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 224 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25634315633491,18.5582459211534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 225 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25654102880441,18.5581545646599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 226 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2566653436928,18.5581618638561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 227 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2567770631978,18.5582757891618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 228 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2567810587807,18.5584223491874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 229 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25695224055001,18.5583888105023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 230 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25692765513141,18.5586090884448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 votes</name>
+			<description>cluster 231 - 17 votes on 19 workers (89.4736842105263 %)</description>
+			<Point>
+				<coordinates>-72.2566506415466,18.5585784693851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 232 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2554336294014,18.5586755848589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 233 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25537118972009,18.558550053851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 234 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.2553661091529,18.5583372807101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 235 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.255564750397,18.5583879858179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 236 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2557684114341,18.5583252037673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 237 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25582268817909,18.5581994830882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 238 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2559833375463,18.5584282490218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 votes</name>
+			<description>cluster 239 - 17 votes on 19 workers (89.4736842105263 %)</description>
+			<Point>
+				<coordinates>-72.25619188479671,18.558439961132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 240 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.2566454077633,18.5590023833631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 241 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25617271130381,18.5587820102116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 242 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2560948970854,18.5586976646208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 votes</name>
+			<description>cluster 243 - 16 votes on 19 workers (84.2105263157895 %)</description>
+			<Point>
+				<coordinates>-72.2558118291804,18.5588519592895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 244 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25558375590759,18.5589033759999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 245 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2553448316464,18.5590936294114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 246 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2554391773412,18.5592359233122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 247 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25569489994361,18.5590292408889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 248 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2556693789372,18.5594367358853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 249 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.2561680782276,18.5593533502184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 votes</name>
+			<description>cluster 250 - 15 votes on 19 workers (78.9473684210526 %)</description>
+			<Point>
+				<coordinates>-72.25602693469349,18.5591500996992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 251 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2568871537753,18.5507759417515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 252 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.256234304101,18.552145895088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 253 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2565894732781,18.5513206822873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 254 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2570037628122,18.5509155757821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 255 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2570470134325,18.55153666453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 256 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2570527610233,18.5517519199772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 257 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2569668451853,18.5519475968799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 258 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2568936804838,18.5519867988317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 259 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.2566571646684,18.5521198897967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 260 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.256359409993,18.551485921328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 261 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.251717474549,18.5558339583386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 262 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2564388225384,18.5561304109573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 263 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2525315847963,18.5579470466556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 votes</name>
+			<description>cluster 264 - 12 votes on 19 workers (63.1578947368421 %)</description>
+			<Point>
+				<coordinates>-72.25661723549,18.5556601935182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 265 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25389638012059,18.5575045924635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 266 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25204609204501,18.5552978276687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 267 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25168212740439,18.5552995354842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 268 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25175052073951,18.5554262585887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 269 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2569108853355,18.5558540230433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 270 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2570332963782,18.5556421252965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 271 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.25617541638169,18.555614005141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 272 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25632298622919,18.5557356361843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 273 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2563846488314,18.5558552944288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 274 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.2561699986027,18.5558035687499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 votes</name>
+			<description>cluster 275 - 13 votes on 19 workers (68.4210526315789 %)</description>
+			<Point>
+				<coordinates>-72.255443364907,18.5557238893059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 276 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2552769862517,18.5553101137294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 277 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2554168478149,18.5546119974623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 278 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25378945620901,18.5572639611799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 279 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25459474715809,18.5576112297241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 280 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.254442723515,18.557296114511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 281 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25448298725119,18.5569127778417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 282 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2547523716412,18.5567162136561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 283 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2550872007332,18.5567154417002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 284 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25454871705369,18.55622959892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 285 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2541791239701,18.5560694637486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 286 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2540423313103,18.5562254201261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 287 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25638083732861,18.5565655913931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 288 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2556126256596,18.5587168829544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 289 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.254243201359,18.5578890721686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 290 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2549373802011,18.5595494805098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 291 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2548329051964,18.5594347100494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 292 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2541080684298,18.558577490313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 293 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2541854182133,18.5584580221974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 294 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25457393123411,18.558827214598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 295 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2550960904284,18.5591993717047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 296 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25511246119621,18.5586405930157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 297 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25489712391681,18.5582521169106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 298 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.2551804828009,18.5578770935154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 299 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2545337716065,18.5579171034766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 300 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25475438329789,18.557914315766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 votes</name>
+			<description>cluster 301 - 11 votes on 19 workers (57.8947368421053 %)</description>
+			<Point>
+				<coordinates>-72.25487959130309,18.557937070191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 302 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.2550256318444,18.5578942440087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 303 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25504102842091,18.5601482342365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 304 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2547753637155,18.5613480246717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 305 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2542601862869,18.5613605564966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 306 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2526296466752,18.5574681834721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 307 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25161386093789,18.5583028751637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 308 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2563285645893,18.5527522093126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 309 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2564457515784,18.5532150014875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 310 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.25626354017931,18.5538583313824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 votes</name>
+			<description>cluster 311 - 14 votes on 19 workers (73.6842105263158 %)</description>
+			<Point>
+				<coordinates>-72.25612868387191,18.5529234101067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 votes</name>
+			<description>cluster 312 - 10 votes on 19 workers (52.6315789473684 %)</description>
+			<Point>
+				<coordinates>-72.25580523084869,18.5537186872849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 313 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2528650751796,18.560223541414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 314 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2528465275666,18.5600304182446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 315 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25305010600179,18.5599666361013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 316 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2530929711432,18.5600622940693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 317 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2565259943314,18.5518816952002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 318 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.256200584902,18.5517858849499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 319 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2527555757935,18.5612855967536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 320 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2525177291122,18.5612944862501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 321 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2545344406613,18.557581532653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 votes</name>
+			<description>cluster 322 - 9 votes on 19 workers (47.3684210526316 %)</description>
+			<Point>
+				<coordinates>-72.2540378323575,18.5559689898308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 323 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2563372201233,18.5534862085715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 324 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25511223468401,18.5577688287302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 325 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2519387862675,18.5549803572893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 326 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.25243170781231,18.5593634212654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 327 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2565600394917,18.5559700095584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 328 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2561760875693,18.5571421495304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 329 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25638465482101,18.5591346338195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 330 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2561913887568,18.5518833480394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 331 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25640037604521,18.5587578607579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 332 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25637154379569,18.5537265294737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 333 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25572188742569,18.5574169237726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 334 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2563351074617,18.5574782675615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 335 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2553468053825,18.5571950818511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 336 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2546900867839,18.5585146983393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 337 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25496703776931,18.557804653146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 338 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2543766403591,18.55777832155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 339 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2541765907727,18.5578043091211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 340 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.255691594227,18.5545952025457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 341 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2561616221639,18.5545195083019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 342 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2542587941809,18.5573728335052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 343 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.25439378412941,18.5575344793178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 344 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2518519130319,18.5579010774214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 votes</name>
+			<description>cluster 345 - 8 votes on 19 workers (42.1052631578947 %)</description>
+			<Point>
+				<coordinates>-72.2527541689405,18.5590667704456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 346 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2567580054112,18.5509372429378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 347 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2565495240998,18.5561251250313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 348 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25619549668561,18.5565125932216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 349 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2556624792613,18.5561116458533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 350 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2553767382813,18.5560247485216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 351 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2553218985142,18.5567341630161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 352 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2557059935404,18.5569123148718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 353 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2553009658766,18.5572747267294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 354 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2559428325964,18.5568296752964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 355 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.256359582619,18.5576319107944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 356 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25375962202431,18.5587903822193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 357 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2539621670561,18.5586677553877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 358 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2539670844393,18.5584240769734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 359 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25433715278101,18.5578932287557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 360 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2518767729605,18.5599596876754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 361 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2517791405523,18.5605663772551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 362 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2516846655931,18.5608085005325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 363 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.25312706174201,18.5610015004731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 364 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.252942682823,18.5612132392086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 365 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2526946702919,18.5588630225271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 366 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25336760473491,18.5588863781256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 367 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2527609784627,18.5595610986684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 368 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25503659878559,18.5576911591423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 369 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.25480706289579,18.5568028793229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 370 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2552224347606,18.5570077830524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 371 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2546311149394,18.5561532982301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 372 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2535805463214,18.5566786626571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 373 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2534492650947,18.5567723209252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 374 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2539689767338,18.5560597007372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 375 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25512350235771,18.5550709868572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 376 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25604762235361,18.5547648355035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 377 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25609697499949,18.5548970604085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 378 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25620211759291,18.5548599357306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 379 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2563212076732,18.5549357107458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 380 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2562053362437,18.555164052692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 381 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2561212042876,18.555275341733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 382 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25555355945311,18.5551030259182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 383 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2539481559716,18.560063356221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 384 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2522959032392,18.5552174510982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 385 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25163554337971,18.5552220281031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 votes</name>
+			<description>cluster 386 - 5 votes on 19 workers (26.3157894736842 %)</description>
+			<Point>
+				<coordinates>-72.2565677920886,18.5537400910887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 votes</name>
+			<description>cluster 387 - 7 votes on 19 workers (36.8421052631579 %)</description>
+			<Point>
+				<coordinates>-72.2546521225818,18.5576815282932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 388 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25500834378821,18.5571410715583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 votes</name>
+			<description>cluster 389 - 6 votes on 19 workers (31.5789473684211 %)</description>
+			<Point>
+				<coordinates>-72.2535127440415,18.5568168396324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 390 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.2554995552491,18.5548177254778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 votes</name>
+			<description>cluster 391 - 4 votes on 19 workers (21.0526315789474 %)</description>
+			<Point>
+				<coordinates>-72.25386965425849,18.5587270198918,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

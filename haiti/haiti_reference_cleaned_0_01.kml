@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>cycle_wgs84</name>
+<Schema name="cycle_wgs84" id="cycle_wgs84">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="workerID" type="float"></SimpleField>
+	<SimpleField name="cluster" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254080022263693,18.5598523796316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253801072526201,18.560045625620202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2538600811245,18.559717615852101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253106380391301,18.560065967290399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252862299371003,18.5600278266567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252873028207006,18.560213444327498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252779150891499,18.560104107915699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253803754735202,18.559476057867901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253691101956605,18.559336208352299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253546262669801,18.5592395849837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253390694546894,18.5594302889481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253334368157596,18.5593489219494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253151977944597,18.559407404483601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253114427018403,18.559262469470699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252824748444795,18.559709987710502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252741599965304,18.559598108260602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252620900559606,18.5594506306917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252438510346593,18.559364178264602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252379501748294,18.559224328657301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253975416112198,18.560060881873099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252312446522893,18.559056508977299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251864517617406,18.5593107811553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2517116317036,18.559308238435399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251950348305897,18.559539625791601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252626264977707,18.560165132898302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251719678330602,18.5587717236881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251818920064196,18.5588759755009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251950348305897,18.558759010048099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252704049039096,18.558886146406099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252738917756304,18.5590768507655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251859153199405,18.557899565783799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251907432961701,18.558113155886701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252108598637804,18.558161467896799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251617754388107,18.5582886046999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251674080777406,18.557660547970599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252124691891893,18.5576910609016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252760375428394,18.557685975413499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253388012337894,18.558898860036699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253658915448398,18.558621702675001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253766203808993,18.558550506215902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253881538796605,18.55849456612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253980780530199,18.558405570475198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254055882382602,18.558502194315999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254114890980901,18.558581018987699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253978098321198,18.558672557270501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253865445542502,18.5587335827651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253771568226995,18.5588073218753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253680373120503,18.558840377328099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254002238202304,18.558809864602601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254181946206302,18.558677642729201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254313374448003,18.558621702675001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254136348653006,18.557975847994101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253412152218999,18.558542878022099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254206086087393,18.5578105698286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252315128731894,18.557645291503899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257011694685701,18.558878518227299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256673736349896,18.558990398149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256534261481093,18.559122619779998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256823940054701,18.558825120965999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256362600104097,18.5591683887823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256172163264097,18.559343836510699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255960268751906,18.559402319046701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256027323977307,18.559153132449602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255887849108504,18.5592853539546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255791289583996,18.559282811234301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2556813190143,18.5594328316662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255557937399701,18.559666761568099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255252165572003,18.559982057884898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255024177805694,18.560154962069401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255088550822094,18.559763384694801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254782778994397,18.559984600594799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254914207236098,18.5595955655449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254839105383695,18.5597227012797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254511875883793,18.5596286208451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254356307761,18.5594328316662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254447502867507,18.559267554911798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254686219469804,18.559165846060299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254774732367295,18.558992940873601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255120737330202,18.5592472131463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255319220797304,18.5591099061661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255431873576001,18.5592548413087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255708141104506,18.559036167186701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255587441698793,18.558916659117902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2558100650471,18.558848005508601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254959804789294,18.559036167186701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254589659945296,18.5588556336888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254458231703595,18.558881060953599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254495782629803,18.559003111771801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255217296854795,18.5595650529545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254474324957599,18.5602820973874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255209250227693,18.559010739944998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254882020727905,18.558873432774501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254683537260803,18.5585072797798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254375083224105,18.558158925159699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254809601084503,18.558425912341001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254635257498506,18.5580445019542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254782778994397,18.5580673866015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254903478399996,18.558268262817801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255050999895801,18.558369972204201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255372864977602,18.558563219871498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255061728731903,18.558753924591802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255101961867098,18.558634416325301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255579395071805,18.5583953995414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255574030653705,18.558517450706901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255614263788999,18.558731040036601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255453331248106,18.5586700145411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2559978196781,18.558446254204298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255016131178607,18.558136040524801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255780560747894,18.558308946579601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255708141104506,18.558171638844499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255842251555194,18.558191980738201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256126565710801,18.557935164152799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256244582907499,18.558011446347201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2561238835018,18.558136040524801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256158752218994,18.558448796937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256341142432007,18.558240292725898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256542308108095,18.558146211474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256526214854006,18.558342002128999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256673736349896,18.5581665533707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256630821005601,18.558581018987699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256080968157605,18.558703070020499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256215078608307,18.558751381863601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256893677489103,18.557902108524701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256987554804596,18.557716488339899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257062656656998,18.557777514176301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257065338865999,18.558008903607998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257027787939805,18.558550506215902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256923181788196,18.558598818102102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256550354735197,18.557897023042798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256357235686096,18.557652919736999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255713505522493,18.557757172233298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255321903006305,18.5579987326505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255169017092499,18.557904651265499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254892749563993,18.557958048814701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254868609682802,18.557856339182798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254782778994397,18.557904651265499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254506511465806,18.557912279487802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254356307761,18.557774971433599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254527969137897,18.557630035034201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255456013457106,18.558102984935498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257017059103802,18.557408383304601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2568158934276,18.5574973794694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256810529009599,18.5573702420768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256697876231001,18.557324472592299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256480617300795,18.557260903843499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256351871268095,18.557314301594101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256338460223006,18.557474494745801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256606681124495,18.557543148907602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256137294546903,18.557538063414999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256201667563204,18.557461781009099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256011230723203,18.557548234399899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256260676161602,18.557271074844898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256196303145202,18.557136309027101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256279451624707,18.557062569194901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255512339846405,18.557204963324899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255413098112896,18.557072740208099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255297763125199,18.557288874095899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255249483362903,18.5574210970452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255501611010303,18.557560948130199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255120737330202,18.557505007709999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255005402342604,18.5574363535328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254965169207395,18.557535520668701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255185110346602,18.5572380190881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254825694338606,18.557166822051698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254436774031404,18.557194792319599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254798872248401,18.5574846657344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254833740965594,18.5573575283324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254407269732297,18.557100710491401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254396540896195,18.556983743821799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2544823715847,18.5569227177016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254782778994397,18.556711668867401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254906160608996,18.556714211626002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254825694338606,18.557021885135899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254916889445099,18.556353139526799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255297763125199,18.556793037123501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254517240301894,18.557067654701601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255603534952897,18.5566709847248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255520386473407,18.557037141659201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255592806116894,18.557128680769999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255659861342195,18.557057483688101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255850298182295,18.557143937283701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256070239321502,18.556826092966499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256145341173905,18.556912546679399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256287498251695,18.5568718625847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256209714190305,18.556782866093599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256107790247697,18.556711668867401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256644232050704,18.556978658312701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2564377019565,18.5569532307644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256405515448407,18.5571591937961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256577176825303,18.557077825714501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256850762144794,18.557204963324899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256872219816998,18.557077825714501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256990237013596,18.556828635723399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256727380530194,18.556790494366101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257019741312803,18.556637928851799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256899041907104,18.556594701931299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256789071337494,18.5564955342487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256590587870406,18.556398909271799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256571812407302,18.556566731565098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256166798845996,18.556353139526799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256043417231396,18.5561675176574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257019741312803,18.556409080324599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256880266444,18.556281942121299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256727380530194,18.5562158302182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255692047850403,18.556381109928001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255684001223401,18.556279399356299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255493564383301,18.556119205083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255651814715193,18.556109034012898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255842251555194,18.556734553693399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255348725096496,18.556157346590201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254806918875502,18.5562692282958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254731817023099,18.556353139526799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254691583887805,18.556475192152799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254434091822404,18.556345511234799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254525286928896,18.556274313826101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254584295527295,18.556195488088999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255075139777006,18.555974267277499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255375547186603,18.556017494355199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255410415903796,18.555872556463399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255246801153902,18.5556564207821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255131466166304,18.555559795330201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254750592486204,18.555826786577299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254560155646104,18.555676762975502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254549426810101,18.555425028161199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254699630514907,18.5552216058177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254868609682802,18.555053782201799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255000037924603,18.554936814129601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255246801153902,18.5549825842544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255268258826007,18.555343659252902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255375547186603,18.555488597593801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255474788920196,18.555290260885702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255901260153607,18.555908155255199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256134612337902,18.555948839579699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256177527682098,18.555791187768399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2561882565182,18.555628450262201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256274087206606,18.5554936831474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256641549841703,18.555664049104902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256547672526196,18.555592851412001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256394786612304,18.555882727547498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256279451624707,18.5560607214219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256531579272107,18.555946296809701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256663007513794,18.555997152202401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256738109366196,18.5556259074874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256432337538499,18.5550029265281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256539625899094,18.554977498685599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256947321669401,18.555142779594402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257057292238997,18.555229234159899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.257038516775907,18.555661506330701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256912452952207,18.555836957664098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255697412268404,18.555825515191501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256209714190305,18.5565146049615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253793696451396,18.5572774317206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254161159086394,18.557053669558002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253761509943203,18.557053669558002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253847340631694,18.5569723014261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252911249685496,18.557351171459899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252833465624093,18.557287602721001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252932707357601,18.557046041297301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252752999353604,18.5570333275286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252651075411094,18.557483394361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252398947763695,18.557262175218799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252490142870201,18.557224033958398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251897374677895,18.557447795897701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251798132944302,18.557422368419399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253340403127893,18.5567103974882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253383318472103,18.556435779335299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253528157758893,18.556573088467001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2536864080908,18.556730739556102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253825882959603,18.5564688352475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253584484148206,18.556684969900001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2538768449309,18.55615353244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254153112459406,18.556049278964299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254059235143899,18.556237443727898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254271129656004,18.556575631227702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251862505960702,18.5569061897904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251967112112297,18.5568426208857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252197782087507,18.556123019234199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252133409071206,18.5560467361958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252111951399101,18.555947568194799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251948336649093,18.5557110904216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251677433538603,18.555843314593201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251655975866498,18.555985709740501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251819590616407,18.555970453123201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251822272825393,18.556250157555802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252903203058494,18.55615353244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252785185861796,18.556000966356301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252302388239102,18.555222877208401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2517927685263,18.5550601391603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251613060522303,18.555655149395299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251779357481198,18.555810258560101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252154866743297,18.556583259509601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252730871129245,18.558113155885202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252387548375339,18.55780548434425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251706267285556,18.557776242804849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254301757531863,18.557890242399967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253950382161364,18.557664785877368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255360795037092,18.558298775636398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256772978083404,18.558287333332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256767613665403,18.55842591234045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256947321669344,18.55843735463765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256715310589598,18.557623461779251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256522191540498,18.55770631736015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256330413595947,18.557763529090749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255743009821657,18.557946606483348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.25530938603093,18.557785566191498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255070924877117,18.557714308835585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255041612164291,18.557912279486651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254655374066147,18.557931350041947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254408163801926,18.557673261689832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254749059795316,18.557677983928556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255610240475448,18.557783871032498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255733622090162,18.557541877534398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255531115309495,18.55740787474878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255367500559601,18.557212591577851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255321903006347,18.5574770374911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254989309088501,18.55715156554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254401234761971,18.5574910226009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2544179985683,18.557347357336049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255042953268799,18.556955410262528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255288375393661,18.556673527482101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255592039771429,18.556843529009502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255903942362565,18.5570617216089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255956245438355,18.5568032081501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256071580426024,18.5569723014193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256734086052703,18.55706384056705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256420267597946,18.5564383220939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256351871268095,18.556578173987798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256008548514146,18.556382381309703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256495369450349,18.5561408186047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255545867459048,18.556280670735852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.25586773254085,18.556578173988051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255240095631351,18.555981895585198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.255456013457135,18.555732703990735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256401492134856,18.555469526763048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.256711287276048,18.555496225919249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254273811865048,18.557385498565651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254071305084409,18.557494836718099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253819982099742,18.557512381670961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.25269399075529,18.556855334667347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.253479877996654,18.556800665394903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.254034424710497,18.555963460495075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252022097397059,18.5558306007323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251862505960702,18.5560772494125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251933137464704,18.556177264929101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251787404108256,18.556406678822654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252799490976571,18.5560925060229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252021650362224,18.555296617833349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251670057463869,18.555294392894876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.251831660557002,18.55563353580985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.252080658960566,18.556477311120201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cycle_wgs84">
+		<SimpleData name="workerID">1</SimpleData>
+		<SimpleData name="cluster">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.2522634962084,18.556621400913201</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
