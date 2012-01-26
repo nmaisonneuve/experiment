@@ -4,7 +4,7 @@ library(sp)
 #for summarySE
 library(doBy)
 
-MAX_SAMPLE=1000
+MAX_SAMPLE=200
 
 generate_list_comb=function(n,vector_number_workers, max_sample=MAX_SAMPLE){
   size=length(workers)
@@ -48,6 +48,19 @@ generate_combinaisons<-function(n,k,max_sample=MAX_SAMPLE){
 }
 
 
+compute_accuracy_explained <- function(obs, refs, min_dist){  
+      match=zerodist2(obs, refs,min_dist/111.1949)
+      match=subset(match, !duplicated(match[,1]))
+      match=subset(match, !duplicated(match[,2]))
+      obs$matching=0
+      obs$matching[match[,1]]=1      
+      fn_errors=refs[-match[,2],]
+      fn_errors$support=0
+      fn_errors$workerID=NULL
+      fn_errors$matching=-1
+      obs=rbind(obs,fn_errors)
+  return(obs)
+}
 
 compute_accuracy_fast <- function(obs, refs, min_dist){  
       match=zerodist2(obs, refs,min_dist/111.1949)

@@ -1,4 +1,3 @@
-setwd("C:/dev/parallel/R")
 source('algo_grid.r')
 
 
@@ -8,9 +7,9 @@ la_totale=function (data.ppp,ref.ppp,min_dist){
   max_workers=length(unique(data.ppp$marks))
   #min_dists=c(0.01,0.012,0.013)  
 #  min_dists=c(0.009,0.013,0.02) 
-  num_workers=c(1,2,3,4,6,8,10,15,20,25,30,35)
+  num_workers=c(1)
   #num_workers=c(25,30)
-  num_workers=c()  
+  #num_workers=c()  
   output=c()
     
   #for (min_dist in min_dists){    
@@ -48,13 +47,14 @@ windows = list("haiti2/haiti2"=window_haiti2, "haiti/haiti"=window_haiti, "islan
 #= 0.0065 lost of 5 % for haiti2
 #=0.0086 list for 5.0% for hoiti
 #=0.013 list for 4.3% for island 
-dists = list("haiti2/haiti2"=0.0065, "haiti/haiti"=0.0086, "island/island"=0.013)
+dists = list("haiti2/haiti2"=0.0065, "haiti/haiti"=0.0085, "island/island"=0.012)
 
 maps=c("haiti2/haiti2","haiti/haiti","island/island")
 
 #input
-for (input_root in maps){
-  input_root="island/island"
+input_root=maps[3]
+#for (input_root in maps){
+  print(input_root)
   min_dist=dists[[input_root]]
   window=windows[[input_root]]
   input_volunteer=sprintf("%s_volunteer.csv",input_root)
@@ -64,11 +64,11 @@ for (input_root in maps){
   ref.ppp<-ppp_read(input_ref)
   data.ppp <- ppp_read(input_volunteer,min=50)
   
-  output=la_totale(data.ppp,ref.ppp)
+  output=la_totale(data.ppp,ref.ppp,min_dist)
   
   output=as.data.frame(output)
   output$ratio=output$num_voters/output$num_workers
   output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
-  
-  write.csv(output, file=output_file)
-}
+  print(mean(output))
+  #write.csv(output, file=output_file)
+#}

@@ -23,8 +23,8 @@ compute_all_accuracy=function(experiment, reference, algo, dist_matching=0.007, 
 output=c()
 
  for (num_worker in num_workers){  
-   num_voters=unique(ceiling(c(0.2,0.35,0.5)*num_worker))
-   #num_voters=compute_agreement_vector(num_worker)
+   #num_voters=unique(ceiling(c(0.2,0.35,0.5,)*num_worker))
+   num_voters=compute_agreement_vector(num_worker)
    for (num_voter in num_voters){  
           tmp=accuracy_dist(experiment, reference, num_workers=num_worker, num_voters=num_voter, min_dist=dist_matching, min_cluster=dist_merging, method=algo)
      	    output=rbind(tmp,output)
@@ -60,7 +60,7 @@ compute_clusters <- function(data, num_workers,num_voters,min_dist, method='dens
     if (method=='density'){
     clusters<-density_clustering(selected_points, min_dist,num_voters)    
     }else{
-    clusters<-democratic_clustering3(selected_points, min_dist,num_voters)    
+    clusters<-democratic_clustering4(selected_points, min_dist,num_voters)    
     }
     clusters$workerID=i
     cluster_points.list[i]=clusters

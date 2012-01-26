@@ -13,15 +13,15 @@ agreement_plot=function(output,measure){
 }
 
 plot_all=function(output){
-sum_fm<-summarySE(output,measurevar="fmeasure", groupvars=c("num_workers","ratio","min_dist"))
+sum_fm<-summarySE(output,measurevar="fmeasure", groupvars=c("num_workers","ratio"))
 names(sum_fm)[names(sum_fm)=="fmeasure"]="measure"
 sum_fm$type="fmeasure"
 
-sum_recall<-summarySE(output,measurevar="recall", groupvars=c("num_workers","ratio","min_dist"))
+sum_recall<-summarySE(output,measurevar="recall", groupvars=c("num_workers","ratio"))
 names(sum_recall)[names(sum_recall)=="recall"]="measure"
 sum_recall$type="recall"
 
-sum_precision<-summarySE(output,measurevar="precision", groupvars=c("num_workers","ratio","min_dist"))
+sum_precision<-summarySE(output,measurevar="precision", groupvars=c("num_workers","ratio"))
 names(sum_precision)[names(sum_precision)=="precision"]="measure"
 sum_precision$type="precision"
 
@@ -41,8 +41,8 @@ p1=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=ratio, group=ratio)) +
 return (p1)
 }
 
-input_root="haiti2/haiti2"
-input_filename=sprintf("%s_collective_output_qc.csv",input_root)
+input_root="haiti/haiti"
+input_filename=sprintf("%s_collective_output2_density.csv",input_root)
 
 # Experiment1  data
 output <- read.csv(input_filename, encoding = "UTF-8")
@@ -52,10 +52,11 @@ output$ratio=output$num_voters/output$num_workers
 #interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
 #names(output)[7]=c("min_dist")
 output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
-#output$precision[output$precision==0]=1
-print(unique(output$min_dist))
-output=output[output$min_dist==0.005,]
+output$precision[output$precision==0]=1
 
+
+output=output[output$dist==0.007,]
+print(output)
 #output=output[output$ratio<0.60 & output$ratio>0.10,]
 
 #best_parameters(output)
@@ -66,4 +67,5 @@ output=output[output$min_dist==0.005,]
 
 #multiplot(p1, p2, p3, cols=1)
 p1=plot_all(output)
+
 #p=agreement_plot(output)

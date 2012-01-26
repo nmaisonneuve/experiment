@@ -71,7 +71,6 @@ experiment=experiment[experiment@coords[,2]>n_e_lat,]
 experiment=experiment[experiment@coords[,2]<s_w_lat,]
 experiment=experiment[experiment@coords[,1]>n_e_lng,]
 experiment=experiment[experiment@coords[,1]<s_w_lng,]
-
 return (experiment)
 }
 

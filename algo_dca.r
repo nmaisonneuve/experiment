@@ -54,9 +54,9 @@ nearest_neighbor=function (data,unclassified,point_idx, max_dist, worker){
   return (NA)
 }
 
-democratic_nearest_neighbor=function(data,unclassified_idx,point_idx,density_method="fixed"){
+democratic_nearest_neighbor=function(data,unclassified_idx,point_idx,max_dist=0.005){
       point=data[point_idx,]    
-      max_dist=0.005
+#      max_dist=0.005
       others=setdiff(unique(data$workerID),point$workerID)      
       points_idx=c(point_idx)
  
@@ -81,20 +81,27 @@ democratic_nearest_neighbor=function(data,unclassified_idx,point_idx,density_met
       return (points_idx)
 }
 
-democratic_clustering4=function (data,unclassified_idx=1:nrow(data),min_volunteers=2,method="better"){  
+democratic_clustering4=function (data,max_dist=0.007,min_volunteers=2){  
   data$cluster=0 # by default all are noises  
   cluster_idx=1  
   workers=unique(data$workerID)
+  size=nrow(data)
+  unclassified_idx=1:size
   dist_ex=c()
   #for (min_vol in length(workers):min_volunteers) {
+  method="better"
+  
   while(length(unclassified_idx)>0) {
+  #for (i in 1:size) {
 
       rand_point_idx=unclassified_idx[sample.int(length(unclassified_idx),1)]
       #rand_point_idx=unclassified_idx[1]      
       point=data[rand_point_idx,]
       
+      
       #check 
-      points_idx=democratic_nearest_neighbor(data,unclassified_idx,rand_point_idx)
+      #points_idx=c()
+      points_idx=democratic_nearest_neighbor(data,unclassified_idx,rand_point_idx,max_dist)
       
       if (method=='better'){
         #print("better mode")
@@ -120,11 +127,13 @@ democratic_clustering4=function (data,unclassified_idx=1:nrow(data),min_voluntee
       }else{        
         unclassified_idx=setdiff(unclassified_idx,rand_point_idx)
       }                    
-     }
+  }
     
   data=data[data$cluster!=0,]
-  clusters_2<<-plot_clusters(data)
+ 
+  #clusters_2<<-plot_clusters(data)
   output=compute_centroid(data)
+  
   return (output)
 }
 

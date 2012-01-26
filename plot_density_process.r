@@ -3,7 +3,7 @@ source('plot_map.r')
 source('algo_dca.r')
 
 
-input_root="haiti/haiti"
+input_root="island/island"
 input_volunteer=sprintf("%s_volunteer.csv",input_root)
 input_gold=sprintf("%s_reference.csv",input_root)
 
@@ -24,37 +24,65 @@ plot_density=function(data,worker,k=1){
 
 data=read_input(input_volunteer,50, 0)
 ref=read_input(input_gold,0, -1)
-data=data[data$workerID %in% c(1,2,3,4, 19, 27, 28,25,30,31,34,35,6,26,25,10,11,12,13,14,15),]
+#data=data[data$workerID %in% c(1,2,3,4,6, 10,11,12,13,14,15,19,26,25,27,28,30,31,34,35),]
 lat_range=range(ref@coords[,1])
 lng_range=range(ref@coords[,2])
 
-#data=data[data$workerID %in% c(1,2,3,4),]
+data=data[data$workerID %in% c(1,2,3,4),]
 #data=spatial_filter(data,4,3,2)
 #ref=spatial_filter(ref,4,3,2)
 
 p_ref=plot_volunteers(ref)
 #plot_density(data,1,1)
 print(p_ref)
-p_v=plot_volunteers(data)
-print(p_v)
-print("ok")
-ptm <- proc.time()
-#output0=density_clustering(data,0.005,min_volunteers=3) 
-print(proc.time()-ptm)
-output=T
-for (min_volunteers in c(2,4,6)){
-output_before=democratic_clustering4(data,0.01,min_volunteers=min_volunteers)
-output_before$min_merg=min_volunteers
-print(plot_result_with_ref(output_before,ref))
-#print(compute_accuracy(output_before,ref,0.007))
-print(compute_accuracy_fast(output_before,ref,0.007))
 
-if (typeof(output)=="logical"){
-    output=output_before
-  }else{
-    output=rbind(output_before,output)  
-  }
-}
+print(plot_volunteers(data))
+
+n=length(unique(data$workerID))
+
+ptm <- proc.time()
+output_before=democratic_clustering4(data,0.01,min_volunteers=1)
+print(proc.time()-ptm)
+
+#output_before$support_backup=output_before$support
+#output_before$support=cut(output_before$support_backup/n,breaks=c(0,0.2,0.4,0.6,0.8,1), labels=FALSE)
+
+
+output_before$support_backup=output_before$support
+output_before$support=cut(output_before$support_backup/n,breaks=seq(0,1,0.1))
+p=ggplot(as.data.frame(output_before), aes(x = support)) + geom_bar(aes(y = (..count..)/sum(..count..))) +     scale_y_continuous(formatter = 'percent')
+
+print(plot_result(output_before))
+print(hist(output_before$support_backup))
+
+
+
+#false positive
+output=compute_accuracy_explained(output_before,ref,0.007)
+
+print(plot_result_with_ref2(output,ref))
+
+output$support_backup=output$support
+output$support=output$support/n
+output$support=cut(output$support,breaks=c(0,0.2,0.4,0.6,0.8,1))
+fp_errors=output[output$matching==0,]
+print(plot_result(fp_errors))
+
+#false negative
+output$support=(n-output$support_backup)/n
+output$support=cut(output$support,breaks=c(0,0.2,0.4,0.6,0.8,1))
+output$support <- factor(output$support, levels = c("0",levels(output$support)))
+#output$support[is.na(output$support)]=factor(0)
+fn_errors=output[output$matching==1 | output$matching==-1,]
+print(plot_result(fn_errors))
+
+
+
+
+#interval=seq(0.1,1,0.2)
+#interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
+#interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
+#names(output)[7]=c("min_dist")
 #print(output)
 
 #test=
@@ -99,3 +127,14 @@ if (typeof(output)=="logical"){
 # p1=plot_result(output1)
 # print(plot_result(output3))
 #multiplot(p_ref,p_v,clusters_2,p1,cols=2)
+
+plot_result=function(data_){
+  input=as.data.frame(data_)  
+  p=ggplot(input, aes(coords.x1, coords.x2))+  geom_point(aes(colour=factor(support),size=support))+blank  +
+    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2]) +scale_colour_grey(start=0.8, end=0)  #scale_colour_gradient(low="gray", high="black", space="Lab")    
+  if (FALSE){
+    p=p+opts(legend.position = "right")
+  }
+return(p)
+}
+print(plot_result(output_before))

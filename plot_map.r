@@ -2,17 +2,35 @@ library(ggplot2)
 library(grid)
 library(gridExtra)
 
-blank=opts(legend.position="none",
-           
-      panel.background = theme_rect(size = 1, colour = "black"),
-       axis.text.x=theme_blank(), axis.text.y=theme_blank(),           
-       axis.title.x=theme_blank(), axis.title.y=theme_blank(),
-       axis.ticks=theme_blank(),
+blank=opts(legend.position="none",                 
+      panel.background = theme_rect(fill = 'white'),
+      axis.text.x=theme_blank(), 
+      axis.text.y=theme_blank(),           
+      axis.title.x=theme_blank(), axis.title.y=theme_blank(),
+      axis.ticks=theme_blank(),
       panel.grid.major = theme_blank(),
       panel.grid.minor = theme_blank(),
       panel.border=theme_rect(colour="black",size=0.71),
       aspect.ratio=1, plot.margin = unit(c(0,0,-1,-1), "lines"))
 
+blank2 <- function (base_size = 12){
+  structure(list(
+    panel.background = theme_rect(size = 1, colour = "black"),
+    #panel.background = theme_rect(fill = 'white'),
+    axis.line = theme_blank(), 
+    axis.text.x = theme_blank(), axis.text.y = theme_blank(),
+    axis.ticks = theme_blank(), 
+    axis.title.x = theme_blank(), axis.title.y = theme_blank(), 
+    axis.ticks.length = unit(0, "lines"), axis.ticks.margin = unit(0, "lines"), 
+    legend.position = "none",     
+    panel.border = theme_blank(), 
+    panel.grid.major = theme_blank(), panel.grid.minor = theme_blank(), 
+    panel.margin = unit(0, "lines"), 
+    plot.background = theme_rect(colour = 'white'), 
+    plot.title = theme_text(size = base_size * 1.2), 
+    plot.margin = unit(c(-1, -1, -1.5, -1.5), "lines")
+  ), class = "options")
+}
 
 #plot_grid 
 # using vector
@@ -77,13 +95,15 @@ multiplot <- function(..., plotlist=NULL, cols) {
     }
      
 }
-
+#size=1,
 
 plot_volunteers=function(data_){
   input=as.data.frame(data_)  
-  p=ggplot(input, aes(coords.x1, coords.x2))+  geom_point(aes(size=1,colour=factor(workerID)))+blank
-  if (exists("lat_range"))
+  p=ggplot(input, aes(coords.x1, coords.x2))+  geom_point(aes(colour=factor(workerID)))+blank
+  if (exists("lat_range")){
+    print("lat_range exist")
   p=p+xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2])
+  }
 return(p)
 }
 
@@ -103,17 +123,34 @@ return(p)
 }
 
 
+
 plot_result=function(data_){
   input=as.data.frame(data_)  
-  p=ggplot(input, aes(coords.x1, coords.x2))+  geom_point(aes(size=1,colour=support))+blank  +
-    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2])
+  p=ggplot(input, aes(coords.x1, coords.x2))+  geom_point(aes(colour=factor(support),size=support))+blank  +
+    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2]) +scale_colour_grey(start=0.8, end=0)  #scale_colour_gradient(low="gray", high="black", space="Lab")    
+  if (FALSE){
+    p=p+opts(legend.position = "right")
+  }
 return(p)
 }
 
+#without matching info
+plot_result_with_ref=function(data_,ref_){
+  input=as.data.frame(data_)  
+  ref=as.data.frame(ref_)
+  p=ggplot()+ geom_point(data=input, aes(x=coords.x1, y=coords.x2,size=support))+ geom_point(data=ref,aes(x=coords.x1, y=coords.x2)) + blank  +
+    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2])+scale_colour_gradient(low="blue", high="red", space="Lab") +opts(legend.position = "none")
+return(p)
+}
 
-
-
-
+#+ matching information 
+plot_result_with_ref2=function(data_,ref_){
+  input=as.data.frame(data_)  
+  ref=as.data.frame(ref_)
+  p=ggplot()+ geom_point(data=input, aes(x=coords.x1, y=coords.x2,size=support, colour=matching))+ geom_point(data=ref,aes(x=coords.x1, y=coords.x2)) + blank  +
+    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2])+scale_colour_gradient(low="blue", high="red", space="Lab") +opts(legend.position = "none")
+return(p)
+}
 
 
 ############################# PLOT ##############################
