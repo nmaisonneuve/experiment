@@ -3,7 +3,7 @@ source('plot_map.r')
 source('algo_dca.r')
 
 
-input_root="haiti/haiti"
+input_root="haiti2/haiti2"
 input_volunteer=sprintf("%s_volunteer.csv",input_root)
 input_gold=sprintf("%s_reference.csv",input_root)
 
@@ -25,10 +25,11 @@ plot_density=function(data,worker,k=1){
 data=read_input(input_volunteer,50, 0)
 ref=read_input(input_gold,0, -1)
 data=data[data$workerID %in% c(1,2,3,4, 19, 27, 28,25,30,31,34,35,6,26,25,10,11,12,13,14,15),]
+#data=data[data$workerID %in% c(1,2,3,4),]
 lat_range=range(ref@coords[,1])
 lng_range=range(ref@coords[,2])
 
-#data=data[data$workerID %in% c(1,2,3,4),]
+
 #data=spatial_filter(data,4,3,2)
 #ref=spatial_filter(ref,4,3,2)
 
@@ -42,10 +43,10 @@ ptm <- proc.time()
 #output0=density_clustering(data,0.005,min_volunteers=3) 
 print(proc.time()-ptm)
 output=T
-for (min_volunteers in c(2,4,6)){
-output_before=democratic_clustering4(data,0.01,min_volunteers=min_volunteers)
+for (min_volunteers in c(1,2,4,6)){
+output_before=democratic_clustering3(data,0.005,min_volunteers=min_volunteers)
 output_before$min_merg=min_volunteers
-print(plot_result_with_ref(output_before,ref))
+#print(plot_result_with_ref(output_before,ref))
 #print(compute_accuracy(output_before,ref,0.007))
 print(compute_accuracy_fast(output_before,ref,0.007))
 

@@ -5,7 +5,7 @@ source('plot_result.r')
 
 #input
 input_root="island/island"
-input_filename=sprintf("%s_collective_output_dca.csv",input_root)
+input_filename=sprintf("%s_collective_output3_density.csv",input_root)
 output_filename=sprintf("%s_parallel_best_output_dca.csv",input_root)
 plot_result=sprintf("%s_parallel_best_output.png",input_root)
 
@@ -49,7 +49,7 @@ print(best)
 ##FOR LATEX ##
 best$X<-NULL
 best$dist<-NULL
-latex=xtable(cbind(best[1:7,3],best[1:7,1],best[1:7,4:7]))
+#latex=xtable(cbind(best[1:7,3],best[1:7,1],best[1:7,4:7]))
 
 
 
@@ -69,12 +69,14 @@ latex=xtable(cbind(best[1:7,3],best[1:7,1],best[1:7,4:7]))
     opts(axis.title.x = theme_text(size = 14, vjust = -0.5),axis.title.y = theme_text(size = 14, angle=90, vjust = 0),  aspect.ratio=1, axis.text.x = theme_text(size = 14), axis.text.y = theme_text(size = 14)) + 
     ylim(0,1)
 
-  grid.arrange(s1,s2,s,nrow=1)
+  print(grid.arrange(s1,s2,s,nrow=1))
+
 ## ONLY RESULTS WITH BEST PARAMETERS
 results=best_results(best,output)
 #save data 
-write.csv(results,output_filename)
+#write.csv(results,output_filename)
 # save  plot/image
 s4=plot_best_accuracy(results)
+print(s4)
 #ggsave(s4, filename=plot_result)
 

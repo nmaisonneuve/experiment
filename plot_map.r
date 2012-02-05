@@ -10,8 +10,9 @@ blank=opts(legend.position="none",
       axis.ticks=theme_blank(),
       panel.grid.major = theme_blank(),
       panel.grid.minor = theme_blank(),
+      strip.background = theme_rect(colour = 'white'),
       panel.border=theme_rect(colour="black",size=0.71),
-      aspect.ratio=1, plot.margin = unit(c(0,0,-1,-1), "lines"))
+      aspect.ratio=1, plot.margin = unit(c(0,0,0,0), "lines"))
 
 blank2 <- function (base_size = 12){
   structure(list(
@@ -138,8 +139,8 @@ return(p)
 plot_result_with_ref=function(data_,ref_){
   input=as.data.frame(data_)  
   ref=as.data.frame(ref_)
-  p=ggplot()+ geom_point(data=input, aes(x=coords.x1, y=coords.x2,size=support))+ geom_point(data=ref,aes(x=coords.x1, y=coords.x2)) + blank  +
-    xlim(lat_range[1],lat_range[2])+ylim(lng_range[1],lng_range[2])+scale_colour_gradient(low="blue", high="red", space="Lab") +opts(legend.position = "none")
+  p=ggplot()+ geom_point(data=input, aes(x=coords.x1, y=coords.x2,size=support))+ geom_point(data=ref,aes(x=coords.x1, y=coords.x2, colour='yellow')) + blank  +
+    xlim(lat_range[1],lat_range[2]) +opts(legend.position = "none")
 return(p)
 }
 

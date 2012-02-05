@@ -6,12 +6,17 @@ library(fpc)
 window_island=owin(c(34.17449,34.18145),c(-0.39021,-0.38439))
 window_haiti=owin(c(-72.2570801,-72.2515869),c(18.5549150,18.5603014))
 window_haiti2=owin(c(-72.34436,-72.34235),c(18.55314,18.55500))
+windows = list( "island/island"=window_island, "haiti/haiti"=window_haiti,"haiti2/haiti2"=window_haiti2)
+dists = list("island/island"=0.007,"haiti/haiti"=0.008, "haiti2/haiti2"=0.005)
+maps=c("island/island","haiti/haiti","haiti2/haiti2")
+labels=c("map1","map2","map3")
 
 # EPSG:3857 (Spherical Mercator projection)
 ps="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+
 read_input=function(filename, min_points, min_distance){
   experiment <- read.csv(filename, , encoding = "UTF-8")  
-  
+  print(head(experiment))  
   coords<-cbind(experiment$lon,experiment$lat)  
   
   #extra_data<-as.data.frame(cbind(experiment$assignID,experiment$duration,experiment$difficulty))

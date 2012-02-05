@@ -2,30 +2,33 @@
 source('input_data.r')
 source('run_parallel_lib.r')
 
-#input
-maps=c("haiti2/haiti2","haiti/haiti","island/island")
-#dist = list("haiti2/haiti2"=0.0065, "haiti/haiti"=0.0086, "island/island"=0.013)
-dist = list("haiti2/haiti2"=0.0065, "haiti/haiti"=0.0086, "island/island"=0.010)
+
 algos=c('density','dca')
 #algos=c('dca')
 #num_voters=unique(ceiling(c(0.2,0.35,0.5)*num_worker))
 
 
-
+#input_root="haiti2/haiti2"
 for (input_root in maps){
-  min_dist=dist[[input_root]]
-  
+  min_dist=dists[[input_root]]
+    
   for (algo in algos){
   
-  input_volunteer=sprintf("%s_volunteer.csv",input_root)
+  cat("compute map",input_root, "with algo",algo,"\n")
+  
+  input_volunteer=sprintf("%s_volunteer2.csv",input_root)
   input_gold=sprintf("%s_reference.csv",input_root)
-  output_filename=sprintf("%s_collective_output2_%s.csv",input_root,algo,min_dist)
+  output_filename=sprintf("%s_collective_output3_%s.csv",input_root,algo,min_dist)
+  
   
   # Experiment1  data
   experiment=read_input(input_volunteer,50, 0)
   
+  
   print("experiment")
   print(nrow(experiment))
+  
+  cat("number of volunteer", length(unique(experiment$workerID)))
   
   #gold standard data 
   reference=read_input(input_gold,0, -1)

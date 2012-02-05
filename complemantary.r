@@ -1,7 +1,7 @@
 #complementary
 
 source('input_data.r')
-source('cluster_map.r')
+
 source('parallel_cluster.r')
 
 agreement_ratio=function(data,set_workerID,min_dist){
@@ -46,6 +46,7 @@ avg_disagreement=function(data,num_volunteers){
 ratio=avg_disagreement(data,2)
 ratio_haiti2=as.data.frame(ratio)
 ratio_haiti2$map="haiti2"
+ggplot(ratio, aes(ratio, fill = map))  +  geom_density(alpha = 0.2) + xlim(0, 1)+ xlab("inter-agreement amongs pairwises of volunteers")+ opts(axis.title.x = theme_text(size = 14, vjust = -0.5),axis.title.y = theme_text(size = 14, angle=90, vjust = 0),  aspect.ratio=1, axis.text.x = theme_text(size = 14), axis.text.y = theme_text(size = 14))
 
 #h=hist(ratio)
 #plot(h)
@@ -57,7 +58,7 @@ ratio_haiti2$map="haiti2"
 #qplot(ratio, data=as.data.frame(ratio), geom="histogram")+xlim(0,1)+facet_wrap(~ map, ncol=3) +opts(aspect.ratio=1)+ geom_histogram(aes(fill = ..count..))
 
 # plot , style 2
-ggplot(ratio, aes(ratio, fill = map))  +  geom_density(alpha = 0.2) + xlim(0, 1)+ xlab("inter-agreement amongs pairwises of volunteers")+ opts(axis.title.x = theme_text(size = 14, vjust = -0.5),axis.title.y = theme_text(size = 14, angle=90, vjust = 0),  aspect.ratio=1, axis.text.x = theme_text(size = 14), axis.text.y = theme_text(size = 14))
+
 
 #print(points[1:10,])
 #print(head(points2))

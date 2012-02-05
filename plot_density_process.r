@@ -3,7 +3,7 @@ source('plot_map.r')
 source('algo_dca.r')
 
 
-input_root="island/island"
+input_root="haiti/haiti"
 input_volunteer=sprintf("%s_volunteer.csv",input_root)
 input_gold=sprintf("%s_reference.csv",input_root)
 
@@ -28,7 +28,7 @@ ref=read_input(input_gold,0, -1)
 lat_range=range(ref@coords[,1])
 lng_range=range(ref@coords[,2])
 
-data=data[data$workerID %in% c(1,2,3,4),]
+#data=data[data$workerID %in% c(1,2,3,4),]
 #data=spatial_filter(data,4,3,2)
 #ref=spatial_filter(ref,4,3,2)
 
@@ -41,9 +41,11 @@ print(plot_volunteers(data))
 n=length(unique(data$workerID))
 
 ptm <- proc.time()
-output_before=democratic_clustering4(data,0.01,min_volunteers=1)
+#output_before=democratic_clustering4(data,0.01,min_volunteers=1)
+
 print(proc.time()-ptm)
 
+print(plot_result(output_before))
 #output_before$support_backup=output_before$support
 #output_before$support=cut(output_before$support_backup/n,breaks=c(0,0.2,0.4,0.6,0.8,1), labels=FALSE)
 
@@ -51,8 +53,9 @@ print(proc.time()-ptm)
 output_before$support_backup=output_before$support
 output_before$support=cut(output_before$support_backup/n,breaks=seq(0,1,0.1))
 p=ggplot(as.data.frame(output_before), aes(x = support)) + geom_bar(aes(y = (..count..)/sum(..count..))) +     scale_y_continuous(formatter = 'percent')
+print(p)
 
-print(plot_result(output_before))
+
 print(hist(output_before$support_backup))
 
 

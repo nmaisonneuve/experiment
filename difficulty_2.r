@@ -8,7 +8,6 @@ library(maptools)
 library(rgdal)
 
 # set working directory
-setwd('C:\\Users\\Nicolas\\Documents\\R')
 
 
 internal_merge=function(data){

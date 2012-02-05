@@ -1,14 +1,7 @@
-library(combinat)
-library(sp)
-library(ggplot2)
-library(fpc)
-
-## Load required packages
-library(maptools)
-library(rgdal)
+source('input_data.r')
 
 # set working directory
-setwd('C:\\Users\\Nicolas\\Documents\\R')
+
 
 
 

@@ -1,9 +1,4 @@
-library(xtable)
 
-library(ggplot2)
-library(gridExtra)
-library(doBy)
-source('plot_result.r')
 
 
 plot_result2<-function(output){

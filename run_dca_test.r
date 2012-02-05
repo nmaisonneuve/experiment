@@ -4,8 +4,8 @@ source('parallel_cluster.r')
 
 
 #input
-input_root="haiti2/haiti2"
-input_volunteer=sprintf("%s_volunteer.csv",input_root)
+input_root="island/island"
+input_volunteer=sprintf("%s_volunteer2.csv",input_root)
 
 
 # Experiment1  data
@@ -21,7 +21,7 @@ print("total")
 print(nrow(data))
 
 ptm <- proc.time()
-data2=democratic_clustering3(data,0.003,4)
+data2=democratic_clustering3(data,0.010,4)
 print(proc.time()-ptm)
 
 ptm <- proc.time()

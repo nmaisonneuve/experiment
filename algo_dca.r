@@ -54,10 +54,10 @@ nearest_neighbor=function (data,unclassified,point_idx, max_dist, worker){
   return (NA)
 }
 
-democratic_nearest_neighbor=function(data,unclassified_idx,point_idx,max_dist=0.005){
+democratic_nearest_neighbor=function(data,workersID,unclassified_idx,point_idx,max_dist=0.005){
       point=data[point_idx,]    
 #      max_dist=0.005
-      others=setdiff(unique(data$workerID),point$workerID)      
+      others=setdiff(workersID,point$workerID)      
       points_idx=c(point_idx)
  
       #if (density_method=="variable"){
@@ -81,27 +81,56 @@ democratic_nearest_neighbor=function(data,unclassified_idx,point_idx,max_dist=0.
       return (points_idx)
 }
 
-democratic_clustering4=function (data,max_dist=0.007,min_volunteers=2){  
+democratic_clustering4=function (data,max_dist=0.007,min_volunteers=2){
+
+  clustered_data=democratic_clustering_internal(data,max_dist,min_volunteers)  
+  clustered_data=clustered_data[clustered_data$cluster!=0,]
+ 
+  #clusters_2<<-plot_clusters(data)
+  centroids=compute_centroid(clustered_data)
+  
+  return (centroids)
+}
+
+democratic_clustering_internal=function (data,max_dist=0.007,min_volunteers=2){  
   data$cluster=0 # by default all are noises  
   cluster_idx=1  
   workers=unique(data$workerID)
-  size=nrow(data)
-  unclassified_idx=1:size
-  dist_ex=c()
-  #for (min_vol in length(workers):min_volunteers) {
-  method="better"
+  size=nrow(data)  
+  cv=integer(size)    
   
-  while(length(unclassified_idx)>0) {
-  #for (i in 1:size) {
+  method="bettera"
+  unclass=(1:size)    
+  
+  workers_idx=lapply(as.list(workers),FUN=function(x){ which(data$workerID==x)})
 
-      rand_point_idx=unclassified_idx[sample.int(length(unclassified_idx),1)]
-      #rand_point_idx=unclassified_idx[1]      
-      point=data[rand_point_idx,]
+  #while(length(unclassified_idx)>0) {
+  for (i in 1:size) {
+  #for (i in 1:size) {
+      if (cv[i]==0){
+      unclass=(1:size)[cv<1]
+        #rand_point_idx=unclassified_idx[sample.int(length(unclassified_idx),1)]      
+      #cat("processing point ",i, ".\n")
+      
+      others=setdiff(workers,data$workerID[i])
+      points_idx=c(i)
+      
+      for (other in others){  
+        idx=match(other,workers)
+        selected=intersect(workers_idx[[idx]],unclass)
+        dist = spDistsN1(data[selected,], data[i,], longlat = TRUE)
+        idx=which.min(dist)
+        
+        if ((length(dist)>0) && (dist[idx]<max_dist)){
+          points_idx=append(points_idx,selected[idx])
+        }       
+      }
       
       
-      #check 
+    
+         #check 
       #points_idx=c()
-      points_idx=democratic_nearest_neighbor(data,unclassified_idx,rand_point_idx,max_dist)
+      #points_idx=democratic_nearest_neighbor(data,workers,unclassified_idx,rand_point_idx,max_dist)
       
       if (method=='better'){
         #print("better mode")
@@ -123,18 +152,17 @@ democratic_clustering4=function (data,max_dist=0.007,min_volunteers=2){
        # cat(points_idx," ",max_dist,"worker:", point$workerID, " others: ", others, "\n")
         data$cluster[points_idx]=cluster_idx
         cluster_idx=cluster_idx+1
-        unclassified_idx=setdiff(unclassified_idx,points_idx)
+        cv[points_idx]=1
+        #unclassified_idx=setdiff(unclassified_idx,points_idx)
+        #size=size-length(points_idx)
       }else{        
-        unclassified_idx=setdiff(unclassified_idx,rand_point_idx)
-      }                    
-  }
-    
-  data=data[data$cluster!=0,]
- 
-  #clusters_2<<-plot_clusters(data)
-  output=compute_centroid(data)
-  
-  return (output)
+        cv[i]=1
+        #unclassified_idx=setdiff(unclassified_idx,rand_point_idx)
+        #size=size-1
+      }             
+    }
+  }    
+  return (data)
 }
 
 democratic_clustering3=function (data,min_dist=0.07,min_volunteers=2){  
@@ -165,7 +193,7 @@ democratic_clustering3=function (data,min_dist=0.07,min_volunteers=2){
             match=zerodist2(others_selected, my_markers,min_dist/112)
             match2=subset(match, !duplicated(match[,2])) 
             if (nrow(match)!=nrow(match2)){
-              cat ("lost:", nrow(match2)/nrow(match),"\n")
+              #cat ("lost:", nrow(match2)/nrow(match),"\n")
             }
             match=match2
             
@@ -198,7 +226,7 @@ democratic_clustering3=function (data,min_dist=0.07,min_volunteers=2){
     }
    }
   }
-  
+  #print(clusters)
   #if (class(clusters)!="matrix"){
   if (length(clusters)>0){
     clusters=matrix(unlist(clusters), ncol=3, byrow=TRUE)        

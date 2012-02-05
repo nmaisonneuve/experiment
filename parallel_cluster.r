@@ -6,6 +6,10 @@ library(doBy)
 
 MAX_SAMPLE=200
 
+compute_agreement_vector=function(num_workers,interval=0.15, max=1){
+  return(unique(ceiling(seq(0.1,max,interval)*num_workers)))
+}
+
 generate_list_comb=function(n,vector_number_workers, max_sample=MAX_SAMPLE){
   size=length(workers)
   list_comb=list(size)
@@ -30,7 +34,7 @@ generate_combinaisons_fast<-function(n,k, max_sample){
 generate_combinaisons<-function(n,k,max_sample=MAX_SAMPLE){	
 	#compute number of possible combinaison [n,k]
 	num = choose(n, k)	
-	if (num > max_sample) {		
+	if (num > max_sample & max_sample!=-1) {		
 		print(sprintf("\nToo many possible combinasons (%f), get only %f (unique) samples", num, max_sample))
 		# get a sample of 20?boxplo0 randoms but unique combinaisons
 		comb=matrix(ncol=k, nrow=0)

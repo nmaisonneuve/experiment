@@ -1,10 +1,6 @@
-#library(xtable) #latex
-
 library(ggplot2)
 source('plot_result.r')
 source('parallel_cluster.r')
-
-
 
 agreement_plot=function(output,measure){
   sum_data<-summarySE(output,measurevar="fmeasure", groupvars=c("ratio"))
@@ -28,7 +24,7 @@ sum_precision$type="precision"
 sum_fm=rbind(sum_fm, sum_precision,sum_recall)
 print(head(sum_fm))
 #shape ,
-p1=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=ratio, group=ratio)) + 
+plot=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=ratio, group=ratio)) + 
       geom_errorbar(aes(ymin=measure-ci, ymax=measure+ci)) +
       geom_line() +        geom_point()+
       ylab("")+ xlab("number of volunteers")+
@@ -38,11 +34,11 @@ p1=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=ratio, group=ratio)) +
            axis.title.x = theme_text(size=15),
             legend.position="right", 
         legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))
-return (p1)
+return (plot)
 }
 
-input_root="haiti/haiti"
-input_filename=sprintf("%s_collective_output2_density.csv",input_root)
+input_root="haiti2/haiti2"
+input_filename=sprintf("%s_collective_output3_dca.csv",input_root)
 
 # Experiment1  data
 output <- read.csv(input_filename, encoding = "UTF-8")
@@ -51,7 +47,10 @@ output$ratio=output$num_voters/output$num_workers
 #interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
 #interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
 #names(output)[7]=c("min_dist")
-output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
+#output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
+#output$ratio=cut(output$ratio,breaks=seq(0.1,1.0,0.1))
+output$ratio=factor(ceiling(output$num_voters/output$num_workers*10))
+output$fmeasure[is.na(output$fmeasure)]=0
 output$precision[output$precision==0]=1
 
 
@@ -67,5 +66,7 @@ print(output)
 
 #multiplot(p1, p2, p3, cols=1)
 p1=plot_all(output)
+print(p1)
+#ggsave("iterative_model.pdf",plot)
 
 #p=agreement_plot(output)
