@@ -26,7 +26,7 @@ la_totale=function (data.ppp,ref.ppp,min_dist){
     
     for (num_worker in num_workers){
       
-    num_voters=compute_agreement_vector(num_worker,interval=0.1)
+    num_voters=compute_agreement_vector(num_worker)
     #num_voter=ceiling(num_worker*0.3)
     
      for (num_voter in num_voters){      
@@ -46,9 +46,9 @@ for (input_root in maps){
   print(input_root)
   min_dist=dists[[input_root]]
   window=windows[[input_root]]
-  input_volunteer=sprintf("%s_volunteer.csv",input_root)
+  input_volunteer=sprintf("%s_volunteer2.csv",input_root)
   input_ref=sprintf("%s_reference.csv",input_root)
-  output_file=sprintf("%s_collective_output_qc.csv",input_root)
+  output_file=sprintf("%s_collective_output3_qc.csv",input_root)
   
   ref.ppp<-ppp_read(input_ref)
   data.ppp <- ppp_read(input_volunteer,min=50)

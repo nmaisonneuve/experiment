@@ -1,5 +1,5 @@
 source('plot_map.r')
-
+source('parallel_cluster.r')
 library(gridExtra)
 
 
@@ -26,20 +26,50 @@ sum_precision<-summarySE(output,measurevar="precision", groupvars=c("num_workers
 names(sum_precision)[names(sum_precision)=="precision"]="measure"
 sum_precision$type="precision"
 
-sum_fm=rbind(sum_fm, sum_precision,sum_recall)
+
 print(head(sum_fm))
 #shape ,
-p1=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=map, group=map)) + 
-      #geom_errorbar(aes(ymin=measure-ci, ymax=measure+ci)) +
-      geom_line() +        geom_point()+
-      ylab("")+ xlab("number of volunteers")+
-      ylim(0,1) +facet_grid(. ~type)+theme_bw()+
-      scale_colour_hue(name="Map")+
-      opts(strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
+p1=ggplot(sum_fm, aes(x=num_workers, y=ci)) + 
+      #geom_errorbar(aes(ymin=measure-sd, ymax=measure+sd)) +
+      geom_line(size=1) + #geom_point()+
+    ylab("") +xlab("")+
+      ylim(0,0.2) +facet_grid(. ~map)+theme_bw()+
+      scale_colour_hue(name="Algo")+
+      opts(aspect.ratio=1,strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
            axis.title.x = theme_text(size=15),
-            legend.position="right", 
-        legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))
-return (p1)
+            legend.position="none", 
+        legend.direction="vertical", plot.margin = unit(c(0,0,0,0), "lines"))
+
+#sum_fm=rbind(sum_fm, sum_precision,sum_recall)
+
+p2=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=type)) + 
+      #geom_errorbar(aes(ymin=measure-sd, ymax=measure+sd)) +
+      geom_line(size=1) +#geom_point()+
+      ylab("")+ xlab("")+
+      ylim(0.3,1) +facet_grid(. ~map)+theme_bw()+
+      scale_colour_hue(name="Algo")+
+      opts(aspect.ratio=1,strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
+           axis.title.x = theme_text(size=15),
+        legend.position="none", 
+        legend.direction="vertical", plot.margin = unit(c(0,0,0,0), "lines"))
+#ggsave("parallel_model1.pdf",p1, width=8,heigh=3.8)
+ggsave("iterative_model1.pdf",p1, width=8,height=3, dpi=20)
+ggsave("iterative_model2.pdf",p2,width=8,height=3, dpi=20)
+
+
+# p1=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=map, group=map)) + 
+#       #geom_errorbar(aes(ymin=measure-ci, ymax=measure+ci)) +
+#       geom_line() +        geom_point()+
+#       ylab("")+ xlab("number of volunteers")+
+#       ylim(0,1) +facet_grid(. ~type)+theme_bw()+
+#       scale_colour_hue(name="Map")+
+#       opts(strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
+#            axis.title.x = theme_text(size=15),
+#             legend.position="right", 
+#         legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))
+# 
+return (multiplot(p2, p1, cols=2))
+#return (p1)
 }
 
 
@@ -69,6 +99,7 @@ input_serial_filename=sprintf("%s_serial_volunteer_result_0.007.csv",input_root)
 serial1=input_serial(input_serial_filename)
 serial1$map<-"Map 1"
 
+
 input_root="haiti/haiti"
 input_serial_filename=sprintf("%s_serial_volunteer_result_0.007.csv",input_root)
 serial2=input_serial(input_serial_filename)
@@ -85,7 +116,7 @@ print(serial[1:10,])
 
 plot=plot_all(serial)
 print(plot)
-ggsave("iterative_model.pdf",plot)
+#ggsave("iterative_model.pdf",plot)
 
 s1=ggplot(serial,aes(factor(num_workers),recall))+ geom_boxplot()+ ylim(0,1) +facet_wrap(~ map, nrow = 1)
 s1=s1+ blank+theme_bw()+xlab("nb of participants")

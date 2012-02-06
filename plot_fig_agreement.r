@@ -30,14 +30,14 @@ plot=ggplot(sum_fm, aes(x=num_workers, y=measure, colour=ratio, group=ratio)) +
       ylab("")+ xlab("number of volunteers")+
       ylim(0,1) +facet_grid(. ~type)+theme_bw()+
       scale_colour_hue(name="Agreement")+
-      opts(strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
+      opts(aspect.ratio=1,strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),
            axis.title.x = theme_text(size=15),
             legend.position="right", 
         legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))
 return (plot)
 }
 
-input_root="haiti2/haiti2"
+input_root="haiti/haiti"
 input_filename=sprintf("%s_collective_output3_dca.csv",input_root)
 
 # Experiment1  data
@@ -47,9 +47,9 @@ output$ratio=output$num_voters/output$num_workers
 #interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
 #interval=c(0,0.10,0.25,0.4,0.55,0.70,0.85,1)
 #names(output)[7]=c("min_dist")
-#output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
+output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
 #output$ratio=cut(output$ratio,breaks=seq(0.1,1.0,0.1))
-output$ratio=factor(ceiling(output$num_voters/output$num_workers*10))
+#output$ratio=factor(ceiling(output$num_voters/output$num_workers*10))
 output$fmeasure[is.na(output$fmeasure)]=0
 output$precision[output$precision==0]=1
 
@@ -67,6 +67,6 @@ print(output)
 #multiplot(p1, p2, p3, cols=1)
 p1=plot_all(output)
 print(p1)
-#ggsave("iterative_model.pdf",plot)
+ggsave("fig_agreement.pdf",p1)
 
 #p=agreement_plot(output)

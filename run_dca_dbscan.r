@@ -4,10 +4,10 @@ source('run_parallel_lib.r')
 
 
 algos=c('density','dca')
-#algos=c('dca')
+algos=c('dca')
 #num_voters=unique(ceiling(c(0.2,0.35,0.5)*num_worker))
 
-
+maps=c("haiti/haiti")
 #input_root="haiti2/haiti2"
 for (input_root in maps){
   min_dist=dists[[input_root]]

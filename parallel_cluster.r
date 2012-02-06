@@ -236,6 +236,35 @@ closest_pair=function(obs,ref,min){
   return(match)
 }
 
+
+
+#summary=function(data){  s=by(output[3:6], output$num_workers, mean)}
+best_voters2=function(data){
+  data_d=cbind(data$num_workers,data$num_voters)
+  sum_data<-summarySE(data,measurevar="fmeasure", groupvars=c("num_workers","num_voters"))
+  num_workers=unique(data$num_workers)
+  best_voters=vapply(num_workers,1,FUN=function(x){
+    max_idx=which.max(sum_data$fmeasure[sum_data$num_workers==x])
+    voter=sum_data$num_voters[sum_data$num_workers==x][max_idx]
+    return(voter)})
+  best_parameters=cbind(num_workers,best_voters)
+  idx=apply(data_d,1,FUN=function(x){return(length(which(best_parameters[,1] == x[1] & best_parameters[,2] == x[2]))>0)})
+  return(data[idx,])
+}
+            
+best_voters=function(data){
+  data_d=cbind(data$num_workers,data$num_voters)
+  num_workers=unique(data_d[,1])
+  best_voters=vapply(num_workers, 1, FUN=function(x){ 
+    idx=which(data_d[,1]==x)
+    idx2=which.min(abs(data_d[idx,2]-0.26*x))
+    return(data_d[idx,2][idx2])})
+  print(best_voters)
+  best_parameters=cbind(num_workers,best_voters)
+  idx=apply(data_d,1,FUN=function(x){return(length(which(best_parameters[,1] == x[1] & best_parameters[,2] == x[2]))>0)})
+  return(data[idx,])
+}
+
 compute_accuracy_fast_old <- function(obs, refs, min_dist){
     output=closest_pair(obs,refs,min_dist)    
     true_positive = length(output[,1])

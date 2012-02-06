@@ -144,7 +144,7 @@ preprocessing=function(experiment,low_annotation, min_dist){
 
 # Aggregating all points < dist_min
 clean=function(data,dist_min){
-   deg_min=dist_min/111.12 # distance in meter to lat degree
+   deg_min=dist_min/111.11 # distance in meter to lat degree
    print(sprintf("before cleaning: row %i (min degree: %f)", length(data),deg_min))
    tmp=dbscan(data@coords, deg_min,  MinPts = 2,method='hybrid') 
    data$cluster=tmp$cluster

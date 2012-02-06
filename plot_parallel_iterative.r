@@ -80,7 +80,7 @@ compute_map=function(map, min_dist=0.007, map_label){
 
 input_root=sprintf("%s/%s",map,map)
 
-input_dca=sprintf("%s_collective_output_dca.csv",input_root)
+input_dca=sprintf("%s_collective_output3_dca.csv",input_root)
 output_dca <- read.csv(input_dca, encoding = "UTF-8")
 output_dca=best_voters(output_dca)
 output=output_dca
@@ -89,7 +89,7 @@ output$ratio=output$num_voters/output$num_workers
 #names(output)[7]=c("min_dist")
 #output$ratio=cut(output$ratio,breaks=c(0,0.2,0.4,0.6,0.8,1))
 #output$fmeasure[is.na(output$fmeasure)]=0
-output=output[output$num_workers<=10,]
+output=output[output$num_workers<=20,]
 output$precision[output$precision==0]=1
 output$map=map_label
 
@@ -123,16 +123,19 @@ sum_precision$measure_type="precision"
 
 sum=rbind(sum_fm,sum_recall,sum_precision)
 sum=sum_fm
+sum=sum[-which(sum$num_workers %in% c(5,7,9,10,15,20)),]
 pd <- position_dodge(.1)
 
+qplot(num_workers, measure, data = sum, fill=type, geom = c("boxplot"), group = round_any(num_workers, 1, floor))+ ylim(0.0,1)+theme_bw()+facet_grid(measure_type ~ (map+type)
+
 p1=ggplot(sum, aes(x=num_workers, y=measure, colour=type)) +       
-      #geom_line(position=pd) +        geom_point(position=pd)+
-    geom_point(position=position_dodge(2))+  
-    #geom_bar(position=position_dodge())+
-        geom_errorbar(aes(ymin=measure-se, ymax=measure+se), position=position_dodge(2))+
+    #geom_line(position=pd) +        geom_point(position=pd)+
+    #geom_point()+  
+    geom_bar(position=position_dodge())+
+        #geom_errorbar(aes(ymin=measure-ci, ymax=measure+ci))+
      # geom_bar(position=position_dodge())+
       #geom_pointrange(aes(ymin=measure-sd, ymax=measure+sd),width=.1, position=pd) +
-      ylab("")+ xlab("number of volunteers")+      ylim(0.3,1.2)+theme_bw()+      opts(strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),           axis.title.x = theme_text(size=15),            legend.position="right",         legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))+facet_grid(measure_type ~ map) 
+      ylab("")+ xlab("number of volunteers")+ylim(0.0,1)+theme_bw()+      opts(strip.text.x = theme_text(size = 15),strip.background = theme_rect(colour = 'white'),           axis.title.x = theme_text(size=15),            legend.position="right",         legend.direction="vertical", plot.margin = unit(c(0,0,0,-1), "lines"))+facet_grid(measure_type ~ map) 
 
     #  scale_colour_hue(name="Map")+
 
