@@ -1,10 +1,8 @@
 library(ggplot2)
 library(gridExtra)
 source('plot_map.r')
-
+source('parallel_cluster.r')
 source('plot_result.r')
-
-
 
 agreement_plot=function(output,measure){
   sum_data<-summarySE(output,measurevar="fmeasure", groupvars=c("ratio"))
